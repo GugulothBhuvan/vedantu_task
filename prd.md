@@ -184,13 +184,23 @@ Each user action updates the store state, which feeds back into the adaptive eng
 ---
 
 # 13. Adaptive Learning System
-The platform utilizes a local, performance-driven algorithm implemented in [adaptiveEngine.ts](file:///d:/nomad%20archives/vedantu_task/services/adaptiveEngine.ts):
-* **Initial State**: Fetches baseline questions from the user's preferred subject or custom configured chapters.
-* **Progression Rules**:
-  * Answering a question correctly advances the difficulty (Easy -> Medium -> Hard).
-  * Answering incorrectly pulls a similar question from the same topic at a lower difficulty (Hard -> Medium -> Easy) to rebuild confidence.
-  * Weak topics are automatically queued into the practice stream with higher priority.
-* **Custom Overrides**: Honors selected chapter pools (`allowedTopics`) and difficulty lockers (`customDifficulty`).
+The platform utilizes a local, performance-driven algorithm implemented in [adaptiveEngine.ts](file:///d:/nomad%20archives/vedantu_task/services/adaptiveEngine.ts) to control the dynamic solving loop.
+
+### 13.1 Dynamic Solving Loop Logic
+The question-serving engine executes a 5-step lifecycle after every user answer submission:
+1. **Scope Filtering**: Filters the full master database down to the selected `subjectOverride` or a customized chapter checklist (`allowedTopics`).
+2. **Exclusion Check**: Excludes question IDs contained in `progress.solvedQuestionIds` to avoid repetition. (If the entire candidate pool is exhausted, the solved list is cleared to allow recycling).
+3. **Adaptive Difficulty Tuning**:
+   * **Difficulty Step-Up**: Difficulty shifts upwards (e.g., `Easy` ➜ `Medium` or `Medium` ➜ `Hard`) only if the user secures **two consecutive correct answers** in the current topic.
+   * **Difficulty Step-Down**: On a wrong answer, the target difficulty immediately decreases (e.g., `Hard` ➜ `Medium` or `Medium` ➜ `Easy`) to rebuild confidence and review simpler sub-concepts.
+4. **Weak Area Focus**: Checks the user's `weakTopics` list. If the user has identified weak chapters, the engine applies a **50% probability check** to choose a question from a weak topic to force active revision.
+5. **Cascading Fallbacks**: To prevent system deadlocks or blank screens, the selection relaxes criteria in sequence:
+   * Match topic + difficulty ➜ Match difficulty only ➜ Match topic only ➜ Match any unsolved question in subject ➜ Match any question.
+
+### 13.2 Visual Walkthrough of Adaptive Solving Loop
+Below is a demonstration of how the adaptive question pool dynamically changes difficulty in response to correct/wrong answer selections:
+
+![Adaptive MCQ Solving Loop Demo](file:///C:/Users/bhuva/.gemini/antigravity-ide/brain/3f6356d0-580b-462d-8599-a9e1bfa7c304/custom_practice_modal_attempt_1780468939549.png)
 
 ---
 
