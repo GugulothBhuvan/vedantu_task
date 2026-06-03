@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_solid_state",
+  "chapterName": "Solid State",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "css1",
+      "difficulty": "easy",
+      "questionText": "What is the total number of constituent atoms present per unit cell in a Face-Centered Cubic (FCC) lattice?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "FCC lattice",
+        "Unit Cell Atoms",
+        "Crystal systems"
+      ]
+    },
+    {
+      "id": "css2",
+      "difficulty": "medium",
+      "questionText": "Frenkel defect (dislocation of cation to interstitial site) is commonly observed in which crystal?",
+      "options": [
+        "NaCl",
+        "KCl",
+        "AgBr",
+        "CsCl"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Frenkel Defect",
+        "AgBr",
+        "Crystal Imperfections"
+      ]
+    },
+    {
+      "id": "css3",
+      "difficulty": "hard",
+      "questionText": "What is the mathematical formulation of Bragg's Law for X-ray diffraction in crystals?",
+      "options": [
+        "nλ = 2d sinθ",
+        "λ = 2d sinθ",
+        "nλ = d sinθ",
+        "2nλ = d sinθ"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Bragg's Law",
+        "X-ray Diffraction",
+        "Solid State Physics-Chem"
+      ]
+    }
+  ]
+}

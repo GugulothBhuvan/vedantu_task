@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_properties_solids",
+  "chapterName": "Mechanical Properties of Solids",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "ps1",
+      "difficulty": "easy",
+      "questionText": "According to Hooke's Law, within the elastic limit, the ratio of stress to strain is constant. This constant is called:",
+      "options": [
+        "Poisson's Ratio",
+        "Modulus of Elasticity",
+        "Yield Point",
+        "Breaking Stress"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Hooke's Law",
+        "Modulus of Elasticity",
+        "Stress-Strain Relation"
+      ]
+    },
+    {
+      "id": "ps2",
+      "difficulty": "easy",
+      "questionText": "Young's modulus of a perfectly rigid body is:",
+      "options": [
+        "Zero",
+        "One",
+        "Infinite",
+        "Determined by force"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Rigid Body",
+        "Young's Modulus",
+        "Elasticity limits"
+      ]
+    },
+    {
+      "id": "ps3",
+      "difficulty": "medium",
+      "questionText": "A steel wire of length 2 m and cross-sectional area 1 mm² is stretched by a force of 100 N. If Young's modulus of steel is 2 x 10¹¹ N/m², the elongation produced is:",
+      "options": [
+        "1 mm",
+        "2 mm",
+        "0.5 mm",
+        "1.5 mm"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Young's Modulus",
+        "Elongation",
+        "Stress & Strain Calculations"
+      ]
+    },
+    {
+      "id": "ps4",
+      "difficulty": "medium",
+      "questionText": "The elastic potential energy density (energy per unit volume) stored in a stretched wire with stress S and Young's modulus Y is:",
+      "options": [
+        "S² / Y",
+        "S² / (2Y)",
+        "S / (2Y)",
+        "YS² / 2"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Elastic Potential Energy",
+        "Energy Density",
+        "Wire Strain"
+      ]
+    },
+    {
+      "id": "ps5",
+      "difficulty": "hard",
+      "questionText": "Two wires of same material have lengths in the ratio 1:2 and diameters in the ratio 2:1. If they are stretched by the same force, the ratio of their elongations (ΔL₁ : ΔL₂) is:",
+      "options": [
+        "1:8",
+        "1:4",
+        "2:1",
+        "1:2"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Wire Elongation",
+        "Dimensions Relation",
+        "Young's Modulus"
+      ]
+    }
+  ]
+}

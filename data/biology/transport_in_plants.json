@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_transport_in_plants",
+  "chapterName": "Transport in Plants",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "btp1",
+      "difficulty": "easy",
+      "questionText": "Plasmolysis occurs when a plant cell is placed in which type of solution?",
+      "options": [
+        "Isotonic",
+        "Hypotonic",
+        "Hypertonic",
+        "Pure water"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Plasmolysis",
+        "Hypertonic",
+        "Osmosis"
+      ]
+    },
+    {
+      "id": "btp2",
+      "difficulty": "medium",
+      "questionText": "Guttation, or loss of water in liquid phase from hydathodes, is mainly caused by:",
+      "options": [
+        "Transpiration pull",
+        "Root pressure",
+        "Cohesion-tension forces",
+        "Photosynthesis"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Guttation",
+        "Root Pressure",
+        "Water Transport"
+      ]
+    },
+    {
+      "id": "btp3",
+      "difficulty": "hard",
+      "questionText": "At standard temperature and pressure, the water potential of pure water is defined as:",
+      "options": [
+        "Zero",
+        "100",
+        "-100",
+        "Varying with volume"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Water Potential",
+        "Pure Water",
+        "Thermodynamics in Plants"
+      ]
+    }
+  ]
+}

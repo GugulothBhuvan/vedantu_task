@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_biological_classification",
+  "chapterName": "Biological Classification",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bbc1",
+      "difficulty": "easy",
+      "questionText": "Who proposed the Five Kingdom system of classification?",
+      "options": [
+        "Robert Hooke",
+        "R.H. Whittaker",
+        "Carl Linnaeus",
+        "Aristotle"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Whittaker",
+        "Five Kingdom System",
+        "Classification history"
+      ]
+    },
+    {
+      "id": "bbc2",
+      "difficulty": "medium",
+      "questionText": "Diatoms have cell walls made up of which indestructible substance?",
+      "options": [
+        "Chitin",
+        "Silica",
+        "Pectin",
+        "Cellulose"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Diatoms",
+        "Chrysophytes",
+        "Cell Wall structure"
+      ]
+    },
+    {
+      "id": "bbc3",
+      "difficulty": "hard",
+      "questionText": "Which of the following diseases is caused by prions in cattle?",
+      "options": [
+        "Bovine Spongiform Encephalopathy (BSE)",
+        "Foot and Mouth disease",
+        "Tobacco Mosaic disease",
+        "Potato spindle tuber disease"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Prions",
+        "Viroids",
+        "Viral diseases"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_molecular_basis_inheritance",
+  "chapterName": "Molecular Basis of Inheritance",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bmb1",
+      "difficulty": "easy",
+      "questionText": "The semi-conservative nature of DNA replication was experimentally proved in E. coli by:",
+      "options": [
+        "Watson and Crick",
+        "Hershey and Chase",
+        "Matthew Meselson and Franklin Stahl",
+        "Avery, MacLeod, and McCarty"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Meselson and Stahl",
+        "Semi-conservative replication",
+        "Molecular Biology history"
+      ]
+    },
+    {
+      "id": "bmb2",
+      "difficulty": "medium",
+      "questionText": "Which codon serves a dual function of coding for Methionine and acting as an initiator codon?",
+      "options": [
+        "UAA",
+        "UAG",
+        "AUG",
+        "UGA"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Genetic Code",
+        "AUG",
+        "Initiation Codon"
+      ]
+    },
+    {
+      "id": "bmb3",
+      "difficulty": "hard",
+      "questionText": "In the lac operon model of E. coli, the repressor protein binds directly to which region?",
+      "options": [
+        "Promoter gene",
+        "Operator gene",
+        "Structural gene z",
+        "Regulator gene"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Lac Operon",
+        "Operator",
+        "Gene Regulation"
+      ]
+    }
+  ]
+}

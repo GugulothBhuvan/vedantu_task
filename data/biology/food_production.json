@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_food_production",
+  "chapterName": "Strategies for Enhancement in Food Production",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bfp1",
+      "difficulty": "easy",
+      "questionText": "Inbreeding depression, caused by continuous self-fertilization or close mating, can be overcome by:",
+      "options": [
+        "Inbreeding",
+        "Outcrossing",
+        "Interspecific hybridization",
+        "Cross-breeding"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Inbreeding Depression",
+        "Outcrossing",
+        "Animal Breeding"
+      ]
+    },
+    {
+      "id": "bfp2",
+      "difficulty": "medium",
+      "questionText": "Himgiri is a crop variety developed by hybridization and selection for resistance to leaf and stripe rust. It is a variety of:",
+      "options": [
+        "Wheat",
+        "Brassica",
+        "Cauliflower",
+        "Cowpea"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Plant Breeding",
+        "Himgiri variety",
+        "Disease Resistance"
+      ]
+    },
+    {
+      "id": "bfp3",
+      "difficulty": "hard",
+      "questionText": "Any part of a plant taken out and grown in a test tube under sterile nutrient media is called an:",
+      "options": [
+        "Explant",
+        "Callus",
+        "Somaclone",
+        "Micropropagate"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Tissue Culture",
+        "Explant",
+        "Plant Biotechnology"
+      ]
+    }
+  ]
+}

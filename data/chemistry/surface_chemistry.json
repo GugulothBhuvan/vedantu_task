@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_surface_chemistry",
+  "chapterName": "Surface Chemistry",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "csc1",
+      "difficulty": "easy",
+      "questionText": "The scattering of light by colloidal particles in a dark room is known as:",
+      "options": [
+        "Brownian movement",
+        "Electrophoresis",
+        "Tyndall Effect",
+        "Peptization"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Tyndall Effect",
+        "Colloids",
+        "Optical properties"
+      ]
+    },
+    {
+      "id": "csc2",
+      "difficulty": "medium",
+      "questionText": "In physical adsorption (physisorption), the adsorbent and adsorbate are held by:",
+      "options": [
+        "Chemical bonds",
+        "Weak van der Waals forces",
+        "Electrostatic attraction",
+        "Coordinate bonds"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Physisorption",
+        "Van der Waals",
+        "Adsorption forces"
+      ]
+    },
+    {
+      "id": "csc3",
+      "difficulty": "hard",
+      "questionText": "The protective action of lyophilic colloids on lyophobic colloids is measured in terms of:",
+      "options": [
+        "Flocculation value",
+        "Gold number",
+        "Coagulation value",
+        "Critical micelle concentration"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Gold Number",
+        "Lyophilic Colloids",
+        "Coagulation prevention"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_coordination_compounds",
+  "chapterName": "Coordination Compounds",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "ccc1",
+      "difficulty": "easy",
+      "questionText": "What is the coordination number of Cobalt in the complex ion [Co(NH3)6]3+?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Coordination Number",
+        "Cobalt Complex",
+        "Ligands"
+      ]
+    },
+    {
+      "id": "ccc2",
+      "difficulty": "medium",
+      "questionText": "What is the correct IUPAC name of the complex [Ni(CO)4]?",
+      "options": [
+        "Tetracarbonylnickel(II)",
+        "Tetracarbonylnickel(0)",
+        "Tetracarbonylnickelate(0)",
+        "Nickel tetracarbonyl"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "IUPAC Nomenclature",
+        "[Ni(CO)4]",
+        "Neutral Complexes"
+      ]
+    },
+    {
+      "id": "ccc3",
+      "difficulty": "hard",
+      "questionText": "Which ligand is classified as a strong-field ligand causing maximum crystal field splitting (CFSE)?",
+      "options": [
+        "Cl-",
+        "H2O",
+        "NH3",
+        "CN- (or CO)"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Spectrochemical Series",
+        "Strong-field Ligands",
+        "Crystal Field Theory"
+      ]
+    }
+  ]
+}

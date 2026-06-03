@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_photosynthesis",
+  "chapterName": "Photosynthesis in Higher Plants",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bps1",
+      "difficulty": "easy",
+      "questionText": "What is the primary photosynthetic pigment found in all green plants?",
+      "options": [
+        "Chlorophyll b",
+        "Carotenoids",
+        "Chlorophyll a",
+        "Xanthophylls"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Chlorophyll a",
+        "Photosynthetic pigments",
+        "Light absorption"
+      ]
+    },
+    {
+      "id": "bps2",
+      "difficulty": "medium",
+      "questionText": "What is the first stable product formed in C4 plants during carbon fixation?",
+      "options": [
+        "Phosphoglyceric acid (PGA)",
+        "Oxaloacetic acid (OAA)",
+        "RuBP",
+        "Malic acid"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "C4 Pathway",
+        "OAA",
+        "Dark Reactions"
+      ]
+    },
+    {
+      "id": "bps3",
+      "difficulty": "hard",
+      "questionText": "Kranz anatomy is a distinctive structural adaptation found in the leaves of:",
+      "options": [
+        "C3 plants",
+        "C4 plants",
+        "CAM plants",
+        "Hydrophytes"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Kranz Anatomy",
+        "C4 Plants",
+        "Leaf Histology"
+      ]
+    }
+  ]
+}

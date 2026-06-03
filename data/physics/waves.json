@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_waves",
+  "chapterName": "Waves",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "wv1",
+      "difficulty": "easy",
+      "questionText": "The speed of a transverse wave on a stretched string of tension T and linear mass density μ is given by:",
+      "options": [
+        "√(T / μ)",
+        "T / μ",
+        "√(μ / T)",
+        "T² / μ"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Wave Speed",
+        "String Waves",
+        "Tension and Density Relationships"
+      ]
+    },
+    {
+      "id": "wv2",
+      "difficulty": "easy",
+      "questionText": "According to the Laplace correction, the speed of sound in an ideal gas is proportional to:",
+      "options": [
+        "√(P / ρ)",
+        "√(γP / ρ)",
+        "γP / ρ",
+        "P / ρ"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Speed of Sound",
+        "Laplace Correction",
+        "Adiabatic Bulk Modulus"
+      ]
+    },
+    {
+      "id": "wv3",
+      "difficulty": "medium",
+      "questionText": "A closed organ pipe of length L has a fundamental frequency f. An open organ pipe of the same length L has a fundamental frequency of:",
+      "options": [
+        "f/2",
+        "f",
+        "2f",
+        "4f"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Organ Pipes",
+        "Resonance & Harmonics",
+        "Standing Sound Waves"
+      ]
+    },
+    {
+      "id": "wv4",
+      "difficulty": "medium",
+      "questionText": "Two tuning forks of frequencies 256 Hz and 260 Hz are sounded together. The number of beats heard per second is:",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Beats Frequency",
+        "Interference of Sound Waves",
+        "Superposition Principle"
+      ]
+    },
+    {
+      "id": "wv5",
+      "difficulty": "hard",
+      "questionText": "A source of sound of frequency 600 Hz is moving towards a stationary observer with a speed of 30 m/s. If the speed of sound in air is 330 m/s, the apparent frequency heard by the observer is:",
+      "options": [
+        "550 Hz",
+        "600 Hz",
+        "660 Hz",
+        "700 Hz"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Doppler Effect",
+        "Apparent Frequency",
+        "Relative Motion of Sound"
+      ]
+    }
+  ]
+}

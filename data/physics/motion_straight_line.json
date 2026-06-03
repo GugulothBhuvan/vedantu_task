@@ -1,0 +1,177 @@
+{
+    "chapterId": "physics_motion_straight_line",
+    "chapterName": "Motion in a Straight Line",
+    "subject": "Physics",
+    "questions": [
+        {
+            "id": "msl1",
+            "difficulty": "easy",
+            "questionText": "A car starts from rest and accelerates uniformly at 2 m/s². What is its velocity after 5 seconds?",
+            "options": [
+                "5 m/s",
+                "10 m/s",
+                "15 m/s",
+                "20 m/s"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Equations of Motion",
+                "Uniform Acceleration",
+                "Velocity-Time Relation"
+            ]
+        },
+        {
+            "id": "msl2",
+            "difficulty": "easy",
+            "questionText": "The slope of a velocity-time graph represents:",
+            "options": [
+                "Velocity",
+                "Displacement",
+                "Acceleration",
+                "Distance"
+            ],
+            "correctOptionIndex": 2,
+            "conceptualTags": [
+                "Graphs of Motion",
+                "Velocity-Time Graph",
+                "Acceleration"
+            ]
+        },
+        {
+            "id": "msl3",
+            "difficulty": "medium",
+            "questionText": "A particle moving with uniform acceleration covers distances 20 m and 40 m in successive intervals of 2 seconds. The acceleration of the particle is:",
+            "options": [
+                "2.5 m/s²",
+                "5 m/s²",
+                "7.5 m/s²",
+                "10 m/s²"
+            ],
+            "correctOptionIndex": 0,
+            "conceptualTags": [
+                "Uniformly Accelerated Motion",
+                "Successive Distances",
+                "Kinematics"
+            ]
+        },
+        {
+            "id": "msl4",
+            "difficulty": "medium",
+            "questionText": "A body is dropped from a height of 80 m. Taking g = 10 m/s², the time taken to reach the ground is:",
+            "options": [
+                "2 s",
+                "4 s",
+                "6 s",
+                "8 s"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Free Fall",
+                "Acceleration due to Gravity",
+                "Equations of Motion"
+            ]
+        },
+        {
+            "id": "msl5",
+            "difficulty": "hard",
+            "questionText": "A train moving at 72 km/h is brought to rest with a constant retardation of 2 m/s². The distance travelled before stopping is:",
+            "options": [
+                "50 m",
+                "75 m",
+                "100 m",
+                "125 m"
+            ],
+            "correctOptionIndex": 2,
+            "conceptualTags": [
+                "Retardation",
+                "Stopping Distance",
+                "Equations of Motion"
+            ]
+        },
+        {
+            "id": "msl6",
+            "difficulty": "easy",
+            "questionText": "A body moves with constant velocity. Its acceleration is:",
+            "options": [
+                "Positive",
+                "Negative",
+                "Zero",
+                "Infinite"
+            ],
+            "correctOptionIndex": 2,
+            "conceptualTags": [
+                "Constant Velocity",
+                "Acceleration",
+                "Uniform Motion"
+            ]
+        },
+        {
+            "id": "msl7",
+            "difficulty": "medium",
+            "questionText": "The area under a velocity-time graph gives:",
+            "options": [
+                "Acceleration",
+                "Force",
+                "Displacement",
+                "Momentum"
+            ],
+            "correctOptionIndex": 2,
+            "conceptualTags": [
+                "Velocity-Time Graph",
+                "Displacement",
+                "Graph Interpretation"
+            ]
+        },
+        {
+            "id": "msl8",
+            "difficulty": "hard",
+            "questionText": "A particle starts from rest and moves with acceleration 4 m/s² for 5 seconds, then moves with constant velocity for 3 seconds. Total displacement is:",
+            "options": [
+                "50 m",
+                "70 m",
+                "90 m",
+                "110 m"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Piecewise Motion",
+                "Uniform Acceleration",
+                "Displacement Calculation"
+            ]
+        },
+        {
+            "id": "msl9",
+            "difficulty": "easy",
+            "questionText": "A body moving along a straight line changes its velocity from 10 m/s to 30 m/s in 5 seconds. Its acceleration is:",
+            "options": [
+                "2 m/s²",
+                "4 m/s²",
+                "6 m/s²",
+                "8 m/s²"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Acceleration",
+                "Velocity Change",
+                "Linear Motion"
+            ]
+        },
+        {
+            "id": "msl10",
+            "difficulty": "medium",
+            "questionText": "A stone is thrown vertically upward with a velocity of 30 m/s. Taking g = 10 m/s², the maximum height reached is:",
+            "options": [
+                "30 m",
+                "45 m",
+                "60 m",
+                "90 m"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Vertical Motion",
+                "Maximum Height",
+                "Kinematics"
+            ]
+        }
+    ]
+}

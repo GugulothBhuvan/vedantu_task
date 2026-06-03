@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_cell_unit_of_life",
+  "chapterName": "Cell: The Unit of Life",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bcu1",
+      "difficulty": "easy",
+      "questionText": "Which organelle is universally referred to as the powerhouse of the cell?",
+      "options": [
+        "Lysosome",
+        "Mitochondria",
+        "Golgi apparatus",
+        "Ribosome"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Mitochondria",
+        "Cell Organelles",
+        "Energy Production"
+      ]
+    },
+    {
+      "id": "bcu2",
+      "difficulty": "medium",
+      "questionText": "The fluid mosaic model of cell membrane structure was proposed by:",
+      "options": [
+        "Singer and Nicolson",
+        "Watson and Crick",
+        "Schleiden and Schwann",
+        "Robert Brown"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Fluid Mosaic Model",
+        "Cell Membrane",
+        "Membrane structure"
+      ]
+    },
+    {
+      "id": "bcu3",
+      "difficulty": "hard",
+      "questionText": "The core of eukaryotic flagella (axoneme) has which microtubules arrangement?",
+      "options": [
+        "9 + 0",
+        "9 + 2",
+        "9 + 3",
+        "7 + 2"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Flagella",
+        "Axoneme",
+        "Microtubules"
+      ]
+    }
+  ]
+}

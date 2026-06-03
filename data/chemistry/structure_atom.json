@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_structure_atom",
+  "chapterName": "Structure of Atom",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "csa1",
+      "difficulty": "easy",
+      "questionText": "Who discovered the subatomic particle 'neutron' in 1932?",
+      "options": [
+        "J.J. Thomson",
+        "Ernest Rutherford",
+        "James Chadwick",
+        "Niels Bohr"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Neutron",
+        "Atomic Theory",
+        "Subatomic Particles"
+      ]
+    },
+    {
+      "id": "csa2",
+      "difficulty": "medium",
+      "questionText": "The number of radial nodes in a 3p orbital is given by (n - l - 1). Its value is:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Radial Nodes",
+        "Quantum Numbers",
+        "Orbitals"
+      ]
+    },
+    {
+      "id": "csa3",
+      "difficulty": "hard",
+      "questionText": "According to Heisenberg's Uncertainty Principle, the product of uncertainty in position and momentum is:",
+      "options": [
+        ">= h / (4π)",
+        ">= h / (2π)",
+        "= h · ν",
+        "= m · c²"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Heisenberg Uncertainty",
+        "Quantum Mechanics",
+        "Atomic Physics"
+      ]
+    }
+  ]
+}

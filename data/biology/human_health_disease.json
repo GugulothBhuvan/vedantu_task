@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_human_health_disease",
+  "chapterName": "Human Health and Disease",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bhd1",
+      "difficulty": "easy",
+      "questionText": "Which vector transmits the protozoan Plasmodium, the causative agent of malaria, to humans?",
+      "options": [
+        "Male Anopheles mosquito",
+        "Female Anopheles mosquito",
+        "Culex mosquito",
+        "Aedes mosquito"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Malaria Vector",
+        "Anopheles",
+        "Infectious Diseases"
+      ]
+    },
+    {
+      "id": "bhd2",
+      "difficulty": "medium",
+      "questionText": "Humoral immunity, involving the production of antibodies, is mediated by which cells?",
+      "options": [
+        "T-lymphocytes",
+        "B-lymphocytes",
+        "Macrophage cells",
+        "Natural Killer cells"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Humoral Immunity",
+        "B-lymphocytes",
+        "Immunology"
+      ]
+    },
+    {
+      "id": "bhd3",
+      "difficulty": "hard",
+      "questionText": "Which species of Plasmodium causes the most serious, malignant, and fatal form of malaria?",
+      "options": [
+        "Plasmodium vivax",
+        "Plasmodium malariae",
+        "Plasmodium falciparum",
+        "Plasmodium ovale"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Plasmodium falciparum",
+        "Malignant malaria",
+        "Protozoan diseases"
+      ]
+    }
+  ]
+}

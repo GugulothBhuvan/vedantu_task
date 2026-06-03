@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_haloalkanes_haloarenes",
+  "chapterName": "Haloalkanes and Haloarenes",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "chh1",
+      "difficulty": "easy",
+      "questionText": "Bimolecular nucleophilic substitution (SN2) reactions proceed with:",
+      "options": [
+        "Complete racemization",
+        "Inversion of configuration (Walden Inversion)",
+        "Retention of configuration",
+        "Formation of carbocation carbocation intermediate"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "SN2 Mechanism",
+        "Walden Inversion",
+        "Stereochemistry"
+      ]
+    },
+    {
+      "id": "chh2",
+      "difficulty": "medium",
+      "questionText": "The Sandmeyer reaction is used to synthesize aryl halides from diazonium salts using:",
+      "options": [
+        "Cu powder and HCl",
+        "Cuprous chloride/bromide (Cu2Cl2/Cu2Br2)",
+        "Sodium iodide in acetone",
+        "Chlorine gas with FeCl3"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Sandmeyer Reaction",
+        "Diazonium Salts",
+        "Aryl Halides"
+      ]
+    },
+    {
+      "id": "chh3",
+      "difficulty": "hard",
+      "questionText": "The synthesis of alkyl iodides from alkyl chlorides/bromides using NaI in dry acetone is called:",
+      "options": [
+        "Finkelstein reaction",
+        "Swarts reaction",
+        "Wurtz-Fittig reaction",
+        "Gattermann reaction"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Finkelstein Reaction",
+        "Halogen Exchange",
+        "Alkyl Iodides"
+      ]
+    }
+  ]
+}

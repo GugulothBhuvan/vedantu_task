@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_alcohols_phenols_ethers",
+  "chapterName": "Alcohols, Phenols, and Ethers",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cap1",
+      "difficulty": "easy",
+      "questionText": "Lucas Reagent, used to distinguish primary, secondary, and tertiary alcohols, is a mixture of:",
+      "options": [
+        "Conc. HNO3 and ZnCl2",
+        "Conc. HCl and anhydrous ZnCl2",
+        "Dilute HCl and Zn",
+        "Conc. H2SO4 and ZnCl2"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Lucas Reagent",
+        "Alcohol testing",
+        "Reagents"
+      ]
+    },
+    {
+      "id": "cap2",
+      "difficulty": "medium",
+      "questionText": "The Reimer-Tiemann reaction of phenol with chloroform in the presence of NaOH yields:",
+      "options": [
+        "Salicylic acid",
+        "Salicylaldehyde",
+        "Benzoquinone",
+        "Acetophenone"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Reimer-Tiemann",
+        "Salicylaldehyde",
+        "Phenol reactions"
+      ]
+    },
+    {
+      "id": "cap3",
+      "difficulty": "hard",
+      "questionText": "Williamson ether synthesis involves the nucleophilic substitution (SN2) of an alkyl halide by a:",
+      "options": [
+        "Carboxylate ion",
+        "Alkoxide ion",
+        "Hydroxide ion",
+        "Amide ion"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Williamson Ether Synthesis",
+        "Alkoxide Ion",
+        "Ethers synthesis"
+      ]
+    }
+  ]
+}

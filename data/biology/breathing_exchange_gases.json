@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_breathing_exchange_gases",
+  "chapterName": "Breathing and Exchange of Gases",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bbe1",
+      "difficulty": "easy",
+      "questionText": "The volume of air inspired or expired during a normal respiration cycle is called:",
+      "options": [
+        "Tidal Volume (TV)",
+        "Inspiratory Reserve Volume (IRV)",
+        "Expiratory Reserve Volume (ERV)",
+        "Residual Volume (RV)"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Pulmonary Volumes",
+        "Tidal Volume",
+        "Respiration physiology"
+      ]
+    },
+    {
+      "id": "bbe2",
+      "difficulty": "medium",
+      "questionText": "In blood, carbon dioxide is transported primarily in which chemical form?",
+      "options": [
+        "Carbaminohemoglobin",
+        "Dissolved gas in plasma",
+        "Bicarbonate ions",
+        "Carbonic acid"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "CO2 Transport",
+        "Bicarbonate",
+        "Blood Chemistry"
+      ]
+    },
+    {
+      "id": "bbe3",
+      "difficulty": "hard",
+      "questionText": "Which factor shifts the oxygen-hemoglobin dissociation curve to the right?",
+      "options": [
+        "Low temperature",
+        "Low pCO2",
+        "High pH (alkalinity)",
+        "High pCO2, low pH, and high temperature"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Oxygen Dissociation Curve",
+        "Bohr Effect",
+        "Hemoglobin affinity"
+      ]
+    }
+  ]
+}

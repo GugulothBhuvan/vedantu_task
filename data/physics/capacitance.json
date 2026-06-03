@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_capacitance",
+  "chapterName": "Capacitance",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "cp1",
+      "difficulty": "easy",
+      "questionText": "The capacitance of a parallel plate capacitor is C. If the area of the plates is doubled and the separation between them is halved, the new capacitance will be:",
+      "options": [
+        "C",
+        "2C",
+        "4C",
+        "C/2"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Parallel Plate Capacitor",
+        "Capacitance formula",
+        "Plate Dimensions"
+      ]
+    },
+    {
+      "id": "cp2",
+      "difficulty": "easy",
+      "questionText": "Three capacitors of capacitance 3 μF each are connected in series. The equivalent capacitance of the combination is:",
+      "options": [
+        "1 μF",
+        "3 μF",
+        "9 μF",
+        "1.5 μF"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Series Capacitors",
+        "Equivalent Capacitance",
+        "Circuit Reductions"
+      ]
+    },
+    {
+      "id": "cp3",
+      "difficulty": "medium",
+      "questionText": "A 10 μF capacitor is charged to a potential difference of 50 V. The energy stored in the capacitor is:",
+      "options": [
+        "12.5 mJ",
+        "25 mJ",
+        "1.25 J",
+        "2.5 J"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Energy Stored in Capacitor",
+        "Capacitor Equations",
+        "Electric Potential Energy"
+      ]
+    },
+    {
+      "id": "cp4",
+      "difficulty": "medium",
+      "questionText": "A parallel plate capacitor is filled with a dielectric slab of dielectric constant K = 5. If the capacitor is connected to a battery and then isolated before inserting the slab, the electric field between plates will:",
+      "options": [
+        "Increase by 5 times",
+        "Decrease by 5 times",
+        "Remain the same",
+        "Become zero"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Dielectrics in Capacitors",
+        "Electric Field Modification",
+        "Isolated Capacitors"
+      ]
+    },
+    {
+      "id": "cp5",
+      "difficulty": "hard",
+      "questionText": "A capacitor of 4 μF is charged to 50 V and another capacitor of 2 μF is charged to 100 V. They are then connected in parallel with like plates together. The common potential is:",
+      "options": [
+        "50 V",
+        "66.7 V",
+        "75 V",
+        "80 V"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Sharing of Charges",
+        "Common Potential",
+        "Parallel Capacitor Systems"
+      ]
+    }
+  ]
+}

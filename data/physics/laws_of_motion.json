@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_laws_of_motion",
+  "chapterName": "Laws of Motion",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "lom1",
+      "difficulty": "easy",
+      "questionText": "According to Newton's First Law of Motion, a body continues in its state of rest or uniform motion unless acted upon by:",
+      "options": [
+        "An internal force",
+        "An external unbalanced force",
+        "A gravitational force only",
+        "A frictional force only"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Newton's First Law",
+        "Inertia",
+        "Force"
+      ]
+    },
+    {
+      "id": "lom2",
+      "difficulty": "easy",
+      "questionText": "A bullet of mass 20 g is fired from a gun of mass 2 kg with a velocity of 150 m/s. The recoil velocity of the gun is:",
+      "options": [
+        "1.5 m/s",
+        "-1.5 m/s",
+        "3.0 m/s",
+        "-3.0 m/s"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Conservation of Momentum",
+        "Recoil Velocity",
+        "Newton's Third Law"
+      ]
+    },
+    {
+      "id": "lom3",
+      "difficulty": "medium",
+      "questionText": "A block of mass 5 kg is sliding down an inclined plane of slope 30° at a constant speed. The coefficient of kinetic friction between the block and the plane is:",
+      "options": [
+        "0.5",
+        "0.58",
+        "0.866",
+        "0.7"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Kinetic Friction",
+        "Incline Planes",
+        "Equilibrium of Forces"
+      ]
+    },
+    {
+      "id": "lom4",
+      "difficulty": "medium",
+      "questionText": "What is the maximum safe speed for a car to round a curve of radius 40 m banked at an angle of 45°? (Take g = 10 m/s², neglect friction)",
+      "options": [
+        "10 m/s",
+        "15 m/s",
+        "20 m/s",
+        "25 m/s"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Banking of Roads",
+        "Centripetal Force",
+        "Circular Motion"
+      ]
+    },
+    {
+      "id": "lom5",
+      "difficulty": "hard",
+      "questionText": "In an Atwood machine, two masses of 3 kg and 5 kg are connected by a light, inextensible string passing over a frictionless pulley. The acceleration of the system is: (Take g = 10 m/s²)",
+      "options": [
+        "1.5 m/s²",
+        "2.5 m/s²",
+        "4.0 m/s²",
+        "5.0 m/s²"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Atwood Machine",
+        "Tension in String",
+        "Newton's Second Law"
+      ]
+    }
+  ]
+}

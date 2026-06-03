@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_microbes_human_welfare",
+  "chapterName": "Microbes in Human Welfare",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bmw1",
+      "difficulty": "easy",
+      "questionText": "Biogas produced by anaerobic digestion of waste consists mainly of which gas?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Hydrogen sulfide",
+        "Nitrogen"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Biogas",
+        "Methanogens",
+        "Microbial applications"
+      ]
+    },
+    {
+      "id": "bmw2",
+      "difficulty": "medium",
+      "questionText": "Cyclosporin A, used as an immunosuppressive agent in organ transplant patients, is produced by the fungus:",
+      "options": [
+        "Saccharomyces cerevisiae",
+        "Monascus purpureus",
+        "Trichoderma polysporum",
+        "Penicillium chrysogenum"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Cyclosporin A",
+        "Trichoderma polysporum",
+        "Immunosuppressants"
+      ]
+    },
+    {
+      "id": "bmw3",
+      "difficulty": "hard",
+      "questionText": "Statins, used as blood cholesterol-lowering agents, function by competitively inhibiting the enzyme responsible for:",
+      "options": [
+        "Lecithin synthesis",
+        "Cholesterol synthesis",
+        "Triglycerides breakdown",
+        "Bile salt absorption"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Statins",
+        "Monascus purpureus",
+        "Cholesterol inhibitor"
+      ]
+    }
+  ]
+}

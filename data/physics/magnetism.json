@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_magnetism",
+  "chapterName": "Magnetism and Moving Charges",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "mg1",
+      "difficulty": "easy",
+      "questionText": "A charged particle of charge q enters a uniform magnetic field B with a velocity v perpendicular to the field. The path followed by the particle is:",
+      "options": [
+        "Straight line",
+        "Circle",
+        "Parabola",
+        "Helical"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Lorentz Force",
+        "Circular Path in Field",
+        "Perpendicular Entry"
+      ]
+    },
+    {
+      "id": "mg2",
+      "difficulty": "easy",
+      "questionText": "The magnetic field at the center of a circular current-carrying loop of radius R and current I is given by:",
+      "options": [
+        "μ₀I / (2R)",
+        "μ₀I / (4R)",
+        "μ₀I / (2πR)",
+        "μ₀I / R"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Biot-Savart Law",
+        "Circular Loop Field",
+        "Magnetic Field Strengths"
+      ]
+    },
+    {
+      "id": "mg3",
+      "difficulty": "medium",
+      "questionText": "A solenoid of length 0.5 m has 500 turns and carries a current of 2 A. The magnetic field inside the solenoid is: (Take μ₀ = 4π x 10⁻⁷ T·m/A)",
+      "options": [
+        "1.25 x 10⁻³ T",
+        "2.51 x 10⁻³ T",
+        "6.28 x 10⁻⁴ T",
+        "3.14 x 10⁻³ T"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Ampere's Circuital Law",
+        "Solenoid Magnetic Field",
+        "Inductive Fields"
+      ]
+    },
+    {
+      "id": "mg4",
+      "difficulty": "medium",
+      "questionText": "Two parallel wires carrying currents in the same direction will:",
+      "options": [
+        "Repel each other",
+        "Attract each other",
+        "Apply no force on each other",
+        "Rotate around each other"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Force between Parallel Currents",
+        "Magnetic Forces",
+        "Electromagnetic Attraction"
+      ]
+    },
+    {
+      "id": "mg5",
+      "difficulty": "hard",
+      "questionText": "Which of the following substances has a negative magnetic susceptibility (χ < 0)?",
+      "options": [
+        "Ferromagnetic",
+        "Paramagnetic",
+        "Diamagnetic",
+        "None of the above"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Magnetic Materials",
+        "Diamagnetism",
+        "Magnetic Susceptibility"
+      ]
+    }
+  ]
+}

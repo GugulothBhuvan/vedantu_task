@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_redox_reactions",
+  "chapterName": "Redox Reactions",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "crr1",
+      "difficulty": "easy",
+      "questionText": "The oxidation state of oxygen in hydrogen peroxide (H2O2) is:",
+      "options": [
+        "-2",
+        "-1",
+        "0",
+        "+1"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Oxidation States",
+        "Hydrogen Peroxide",
+        "Oxygen Exceptions"
+      ]
+    },
+    {
+      "id": "crr2",
+      "difficulty": "medium",
+      "questionText": "What is the oxidation state of Manganese (Mn) in potassium permanganate (KMnO4)?",
+      "options": [
+        "+4",
+        "+6",
+        "+7",
+        "+2"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Oxidation States",
+        "KMnO4",
+        "Transition Metals"
+      ]
+    },
+    {
+      "id": "crr3",
+      "difficulty": "hard",
+      "questionText": "Which of the following is a classic disproportionation redox reaction?",
+      "options": [
+        "2H2 + O2 -> 2H2O",
+        "Cl2 + 2OH- -> Cl- + ClO- + H2O",
+        "Zn + CuSO4 -> ZnSO4 + Cu",
+        "CaCO3 -> CaO + CO2"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Disproportionation",
+        "Redox reactions",
+        "Chlorine reactions"
+      ]
+    }
+  ]
+}

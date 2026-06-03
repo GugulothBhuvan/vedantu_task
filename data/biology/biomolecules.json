@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_biomolecules",
+  "chapterName": "Biomolecules",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bbm1",
+      "difficulty": "easy",
+      "questionText": "What is the most abundant protein in the animal world?",
+      "options": [
+        "Collagen",
+        "RuBisCO",
+        "Hemoglobin",
+        "Keratin"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Collagen",
+        "Proteins",
+        "Abundancy"
+      ]
+    },
+    {
+      "id": "bbm2",
+      "difficulty": "medium",
+      "questionText": "Enzymes speed up biochemical reactions primarily by:",
+      "options": [
+        "Increasing activation energy",
+        "Lowering activation energy",
+        "Changing equilibrium constant",
+        "Increasing temperature"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Enzymes",
+        "Activation Energy",
+        "Catalysis"
+      ]
+    },
+    {
+      "id": "bbm3",
+      "difficulty": "hard",
+      "questionText": "The zwitterionic form of an amino acid is neutral because:",
+      "options": [
+        "It carries no charge at all",
+        "It carries equal positive and negative charges at its isoelectric point",
+        "It only acts as an acid",
+        "It only acts as a base"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Amino Acids",
+        "Zwitterion",
+        "Isoelectric Point"
+      ]
+    }
+  ]
+}

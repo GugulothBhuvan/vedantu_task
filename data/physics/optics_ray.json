@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_optics_ray",
+  "chapterName": "Ray Optics",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "or1",
+      "difficulty": "easy",
+      "questionText": "The refractive index of glass is 1.5. If light travels with speed c in vacuum, its speed in glass is:",
+      "options": [
+        "1.5 c",
+        "c",
+        "2/3 c",
+        "0.5 c"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Refractive Index",
+        "Speed of Light",
+        "Refraction Basics"
+      ]
+    },
+    {
+      "id": "or2",
+      "difficulty": "easy",
+      "questionText": "The critical angle for total internal reflection from glass to air is minimum for which color of light?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Violet"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Critical Angle",
+        "Total Internal Reflection",
+        "Dispersion Relationships"
+      ]
+    },
+    {
+      "id": "or3",
+      "difficulty": "medium",
+      "questionText": "A convex lens of focal length 20 cm is placed in contact with a concave lens of focal length 25 cm. The power of the combination is:",
+      "options": [
+        "+1 D",
+        "-1 D",
+        "+9 D",
+        "-9 D"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Lens Combinations",
+        "Power of Lens",
+        "Focal Length Calculation"
+      ]
+    },
+    {
+      "id": "or4",
+      "difficulty": "medium",
+      "questionText": "A ray of light is incident at an angle of 60° on one face of an equilateral glass prism. If the ray undergoes minimum deviation, the angle of deviation is: (Refractive index = √3)",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Prism Minimum Deviation",
+        "Refraction in Prism",
+        "Angle relations"
+      ]
+    },
+    {
+      "id": "or5",
+      "difficulty": "hard",
+      "questionText": "In a compound microscope, the focal length of the objective lens is 1 cm and that of the eyepiece is 5 cm. If an object is placed at 1.1 cm from the objective, and final image is formed at infinity, the magnifying power of the microscope is: (Least distance of distinct vision = 25 cm)",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Compound Microscope",
+        "Magnifying Power",
+        "Optical Instruments"
+      ]
+    }
+  ]
+}

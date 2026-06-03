@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_organic_basic_principles",
+  "chapterName": "Organic Chemistry: Basic Principles",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cob1",
+      "difficulty": "easy",
+      "questionText": "What is the hybridization of carbon in a methane (CH4) molecule?",
+      "options": [
+        "sp",
+        "sp2",
+        "sp3",
+        "dsp2"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Hybridization",
+        "Methane",
+        "Sigma bonds"
+      ]
+    },
+    {
+      "id": "cob2",
+      "difficulty": "medium",
+      "questionText": "The IUPAC name of the compound CH3-CH=CH-CH3 is:",
+      "options": [
+        "But-1-ene",
+        "But-2-ene",
+        "Propene",
+        "Butane"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "IUPAC Nomenclature",
+        "Alkenes",
+        "Naming rules"
+      ]
+    },
+    {
+      "id": "cob3",
+      "difficulty": "hard",
+      "questionText": "Which electronic effect in organic chemistry represents a permanent displacement of sigma electrons along a carbon chain?",
+      "options": [
+        "Inductive effect",
+        "Electromeric effect",
+        "Resonance effect",
+        "Hyperconjugation"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Inductive Effect",
+        "Electronic Effects",
+        "Polarity in organic molecules"
+      ]
+    }
+  ]
+}

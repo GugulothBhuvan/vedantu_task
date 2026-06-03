@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_chemistry_everyday_life",
+  "chapterName": "Chemistry in Everyday Life",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cel2_1",
+      "difficulty": "easy",
+      "questionText": "Aspirin, a widely used analgesic and antipyretic, is chemically named:",
+      "options": [
+        "Methyl salicylate",
+        "Acetylsalicylic acid",
+        "Phenyl salicylate",
+        "Salicylaldehyde"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Aspirin",
+        "Analgesics",
+        "Acetylsalicylic Acid"
+      ]
+    },
+    {
+      "id": "cel2_2",
+      "difficulty": "medium",
+      "questionText": "Ranitidine is a drug commonly prescribed as an:",
+      "options": [
+        "Analgesic",
+        "Antacid (H2-receptor antagonist)",
+        "Antibiotic",
+        "Antiseptic"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Ranitidine",
+        "Antacids",
+        "Histamine receptors"
+      ]
+    },
+    {
+      "id": "cel2_3",
+      "difficulty": "hard",
+      "questionText": "Which artificial sweetener is stable at cooking temperatures and is a trichloroderivative of sucrose?",
+      "options": [
+        "Aspartame",
+        "Alitame",
+        "Sucralose",
+        "Saccharin"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Sucralose",
+        "Artificial Sweeteners",
+        "Sucrose derivatives"
+      ]
+    }
+  ]
+}

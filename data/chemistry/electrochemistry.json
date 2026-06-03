@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_electrochemistry",
+  "chapterName": "Electrochemistry",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cel1",
+      "difficulty": "easy",
+      "questionText": "The SI unit of cell constant of a conductivity cell is:",
+      "options": [
+        "Siemens (S)",
+        "ohm·cm",
+        "m⁻¹ (or cm⁻¹)",
+        "S·cm²/mol"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Cell Constant",
+        "Conductivity Units",
+        "Electrochemistry basics"
+      ]
+    },
+    {
+      "id": "cel2",
+      "difficulty": "medium",
+      "questionText": "Kohlrausch's Law of independent migration of ions is primarily applied to calculate:",
+      "options": [
+        "Standard cell potential",
+        "Limiting molar conductivity (Λ°m) of weak electrolytes",
+        "Gibbs free energy of reaction",
+        "Faraday's constant"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Kohlrausch's Law",
+        "Molar Conductivity",
+        "Weak Electrolytes"
+      ]
+    },
+    {
+      "id": "cel3",
+      "difficulty": "hard",
+      "questionText": "At 298 K, the cell potential E_cell of a half-cell is linked to concentrations by the Nernst Equation. The factor RT/F ln(x) converts to log10(x) with coefficient:",
+      "options": [
+        "0.0591 V",
+        "0.0295 V",
+        "0.118 V",
+        "0.012 V"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Nernst Equation",
+        "Half-cell Potential",
+        "Electrochemistry equations"
+      ]
+    }
+  ]
+}

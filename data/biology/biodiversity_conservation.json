@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_biodiversity_conservation",
+  "chapterName": "Biodiversity and Conservation",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bbc2_1",
+      "difficulty": "easy",
+      "questionText": "Which of the following represents an ex-situ (off-site) biodiversity conservation method?",
+      "options": [
+        "National Parks",
+        "Wildlife Sanctuaries",
+        "Zoological Parks / Seed Banks",
+        "Biosphere Reserves"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Ex-situ Conservation",
+        "Zoological Parks",
+        "Biodiversity Preservation"
+      ]
+    },
+    {
+      "id": "bbc2_2",
+      "difficulty": "medium",
+      "questionText": "The historic convention on biological diversity, 'The Earth Summit', was held in Rio de Janeiro in:",
+      "options": [
+        "1988",
+        "1992",
+        "2002",
+        "2010"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Earth Summit",
+        "Rio de Janeiro",
+        "International Conventions"
+      ]
+    },
+    {
+      "id": "bbc2_3",
+      "difficulty": "hard",
+      "questionText": "What is the total number of biodiversity hotspots designated globally to cover critical ecosystems?",
+      "options": [
+        "25",
+        "34",
+        "18",
+        "42"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Biodiversity Hotspots",
+        "Norman Myers",
+        "Conservation priorities"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_hydrocarbons",
+  "chapterName": "Hydrocarbons",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "chc1",
+      "difficulty": "easy",
+      "questionText": "The Wurtz reaction, involving the reaction of alkyl halides with sodium in dry ether, is used to prepare:",
+      "options": [
+        "Alkenes",
+        "Alkanes containing even number of carbon atoms",
+        "Alkynes",
+        "Alcohols"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Wurtz Reaction",
+        "Alkanes synthesis",
+        "Organometallic steps"
+      ]
+    },
+    {
+      "id": "chc2",
+      "difficulty": "medium",
+      "questionText": "Ozonolysis of propene followed by reductive workup with Zn/H2O yields:",
+      "options": [
+        "Methanal and Ethanal",
+        "Ethanal only",
+        "Propanone only",
+        "Propanal"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Ozonolysis",
+        "Alkenes reactions",
+        "Carbonyl products"
+      ]
+    },
+    {
+      "id": "chc3",
+      "difficulty": "hard",
+      "questionText": "According to Huckel's rule, a planar monocyclic ring is aromatic if it possesses how many conjugated pi electrons?",
+      "options": [
+        "4n pi electrons",
+        "(4n + 2) pi electrons",
+        "2n pi electrons",
+        "(2n + 2) pi electrons"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Huckel's Rule",
+        "Aromaticity",
+        "Conjugated Systems"
+      ]
+    }
+  ]
+}

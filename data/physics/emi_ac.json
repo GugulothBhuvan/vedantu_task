@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_emi_ac",
+  "chapterName": "Electromagnetic Induction and AC",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "ea1",
+      "difficulty": "easy",
+      "questionText": "Lenz's Law is a consequence of the law of conservation of:",
+      "options": [
+        "Charge",
+        "Mass",
+        "Energy",
+        "Momentum"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Lenz's Law",
+        "Electromagnetic Induction",
+        "Conservation of Energy"
+      ]
+    },
+    {
+      "id": "ea2",
+      "difficulty": "easy",
+      "questionText": "The self-inductance of a coil is L. If the number of turns in the coil is doubled while keeping other dimensions constant, the self-inductance becomes:",
+      "options": [
+        "L/2",
+        "2L",
+        "4L",
+        "L"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Self-Inductance",
+        "Turns Dependence",
+        "Magnetic Flux Coils"
+      ]
+    },
+    {
+      "id": "ea3",
+      "difficulty": "medium",
+      "questionText": "If the peak value of an alternating voltage is 283 V, its root mean square (RMS) value is approximately:",
+      "options": [
+        "141 V",
+        "200 V",
+        "283 V",
+        "400 V"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Alternating Current (AC)",
+        "RMS Voltage",
+        "Peak-to-RMS relations"
+      ]
+    },
+    {
+      "id": "ea4",
+      "difficulty": "medium",
+      "questionText": "In a series LCR circuit, resonance occurs when the inductive reactance (X_L) and capacitive reactance (X_C) satisfy:",
+      "options": [
+        "X_L = 0",
+        "X_C = 0",
+        "X_L = X_C",
+        "X_L + X_C = 0"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "LCR Series Resonance",
+        "Reactance",
+        "Resonant Frequency"
+      ]
+    },
+    {
+      "id": "ea5",
+      "difficulty": "hard",
+      "questionText": "In an LCR circuit containing L = 2.0 H, C = 32 μF and R = 10 Ω, the Q-factor of the circuit is:",
+      "options": [
+        "25",
+        "50",
+        "250",
+        "12.5"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Quality Factor (Q-factor)",
+        "Circuit Damping",
+        "Resonance Sharpness"
+      ]
+    }
+  ]
+}

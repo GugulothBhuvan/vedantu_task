@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_rotational_motion",
+  "chapterName": "Rotational Motion",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "rm1",
+      "difficulty": "easy",
+      "questionText": "Two particles of masses 1 kg and 3 kg are placed at coordinates (0, 0) and (4 m, 0) respectively. The center of mass of the system is at:",
+      "options": [
+        "(1 m, 0)",
+        "(2 m, 0)",
+        "(3 m, 0)",
+        "(4 m, 0)"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Center of Mass",
+        "System of Particles",
+        "Coordinates"
+      ]
+    },
+    {
+      "id": "rm2",
+      "difficulty": "easy",
+      "questionText": "The ratio of the moment of inertia of a thin circular ring and a uniform circular disc of same mass M and same radius R about their respective central axes is:",
+      "options": [
+        "1:1",
+        "2:1",
+        "1:2",
+        "4:1"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Moment of Inertia",
+        "Circular Ring",
+        "Circular Disc"
+      ]
+    },
+    {
+      "id": "rm3",
+      "difficulty": "medium",
+      "questionText": "A wheel of moment of inertia 2 kg·m² is subjected to a constant torque of 10 N·m. The angular acceleration produced in the wheel is:",
+      "options": [
+        "2 rad/s²",
+        "5 rad/s²",
+        "10 rad/s²",
+        "20 rad/s²"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Torque",
+        "Angular Acceleration",
+        "Rotational Dynamics"
+      ]
+    },
+    {
+      "id": "rm4",
+      "difficulty": "medium",
+      "questionText": "A ballerina pulls her arms closer to her body while spinning. Her angular speed increases because:",
+      "options": [
+        "Torque increases",
+        "Moment of inertia increases",
+        "Angular momentum increases",
+        "Moment of inertia decreases, conserving angular momentum"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Conservation of Angular Momentum",
+        "Moment of Inertia Change",
+        "Rotational Kinematics"
+      ]
+    },
+    {
+      "id": "rm5",
+      "difficulty": "hard",
+      "questionText": "A solid cylinder and a solid sphere of the same mass and radius release from rest down the same inclined plane. Both roll without slipping. The ratio of their accelerations (a_cylinder / a_sphere) is:",
+      "options": [
+        "15/14",
+        "14/15",
+        "2/3",
+        "5/7"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Rolling Motion",
+        "Inclined Plane",
+        "Moment of Inertia of Sphere & Cylinder"
+      ]
+    }
+  ]
+}

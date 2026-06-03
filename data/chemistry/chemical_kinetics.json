@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_chemical_kinetics",
+  "chapterName": "Chemical Kinetics",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cck1",
+      "difficulty": "easy",
+      "questionText": "What is the unit of rate constant (k) for a zero-order chemical reaction?",
+      "options": [
+        "s⁻¹",
+        "L·mol⁻¹·s⁻¹",
+        "mol·L⁻¹·s⁻¹",
+        "mol·L⁻¹"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Zero Order",
+        "Rate Constant Units",
+        "Reaction Kinetics"
+      ]
+    },
+    {
+      "id": "cck2",
+      "difficulty": "medium",
+      "questionText": "The half-life period (t_1/2) of a first-order chemical reaction is:",
+      "options": [
+        "Directly proportional to initial concentration",
+        "Inversely proportional to initial concentration",
+        "Independent of initial concentration (equal to 0.693 / k)",
+        "Directly proportional to square of concentration"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "First Order Half-Life",
+        "Concentration independence",
+        "Kinetics formulas"
+      ]
+    },
+    {
+      "id": "cck3",
+      "difficulty": "hard",
+      "questionText": "The Arrhenius equation expressing the temperature dependence of reaction rate is:",
+      "options": [
+        "k = A · e^(-Ea / RT)",
+        "k = A · e^(Ea / RT)",
+        "Ea = RT ln(k)",
+        "k = A · RT"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Arrhenius Equation",
+        "Activation Energy",
+        "Temperature effect"
+      ]
+    }
+  ]
+}

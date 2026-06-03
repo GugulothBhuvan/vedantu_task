@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_kinetic_theory",
+  "chapterName": "Kinetic Theory of Gases",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "kt1",
+      "difficulty": "easy",
+      "questionText": "According to the kinetic theory of gases, at absolute zero temperature, the molecules of a gas have:",
+      "options": [
+        "Maximum kinetic energy",
+        "Minimum potential energy",
+        "Zero kinetic energy",
+        "Infinite velocity"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Absolute Zero",
+        "Molecular Kinetic Energy",
+        "Postulates of KTG"
+      ]
+    },
+    {
+      "id": "kt2",
+      "difficulty": "easy",
+      "questionText": "The root mean square (RMS) velocity of molecules of a gas of molar mass M at absolute temperature T is proportional to:",
+      "options": [
+        "T / M",
+        "√(T / M)",
+        "T · M",
+        "√(T · M)"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "RMS Speed",
+        "Molecular Speeds",
+        "Temperature-Speed Relation"
+      ]
+    },
+    {
+      "id": "kt3",
+      "difficulty": "medium",
+      "questionText": "The degrees of freedom of a diatomic gas molecule (like O₂) at room temperature is:",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Degrees of Freedom",
+        "Diatomic Molecules",
+        "Law of Equipartition of Energy"
+      ]
+    },
+    {
+      "id": "kt4",
+      "difficulty": "medium",
+      "questionText": "The ratio of specific heats Cp/Cv (γ) for a monoatomic gas is:",
+      "options": [
+        "1.33",
+        "1.40",
+        "1.67",
+        "1.50"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Specific Heat Ratio",
+        "Monoatomic Gas",
+        "Cp and Cv Relations"
+      ]
+    },
+    {
+      "id": "kt5",
+      "difficulty": "hard",
+      "questionText": "The mean free path of gas molecules of diameter d and density n (number of molecules per unit volume) is proportional to:",
+      "options": [
+        "1 / (n · d²)",
+        "1 / (n² · d)",
+        "n / d²",
+        "n² / d²"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Mean Free Path",
+        "Collision Parameters",
+        "Molecular Geometry"
+      ]
+    }
+  ]
+}

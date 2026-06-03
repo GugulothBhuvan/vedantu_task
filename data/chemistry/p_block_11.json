@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_p_block_11",
+  "chapterName": "The p-Block Elements (Group 13 & 14)",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cpb11_1",
+      "difficulty": "easy",
+      "questionText": "In the borax bead test, which chemical substance is responsible for bead formation?",
+      "options": [
+        "Sodium tetraborate",
+        "Boric anhydride (B2O3) and sodium metaborate",
+        "Orthoboric acid",
+        "Boron carbide"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Borax Bead Test",
+        "Borax",
+        "Analytical chemistry"
+      ]
+    },
+    {
+      "id": "cpb11_2",
+      "difficulty": "medium",
+      "questionText": "Diborane (B2H6) possesses which type of unique chemical bonding?",
+      "options": [
+        "Coordinate covalent bonds",
+        "Three-center-two-electron bridge bonds",
+        "Ionic bonds",
+        "Metallic bonds"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Diborane",
+        "Bridge Bonding",
+        "Electron deficient molecules"
+      ]
+    },
+    {
+      "id": "cpb11_3",
+      "difficulty": "hard",
+      "questionText": "Dry ice is the common name of which solid substance?",
+      "options": [
+        "Solid SO2",
+        "Solid CO2",
+        "Solid NH3",
+        "Solid nitrogen"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Dry Ice",
+        "Carbon Dioxide",
+        "Group 14 oxides"
+      ]
+    }
+  ]
+}

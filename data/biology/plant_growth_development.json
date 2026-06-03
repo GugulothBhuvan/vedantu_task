@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_plant_growth_development",
+  "chapterName": "Plant Growth and Development",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bpg1",
+      "difficulty": "easy",
+      "questionText": "Which gaseous plant hormone is primarily responsible for the ripening of fruits?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Ethylene",
+        "Fruit Ripening",
+        "Plant Hormones"
+      ]
+    },
+    {
+      "id": "bpg2",
+      "difficulty": "medium",
+      "questionText": "The bolting effect (internode elongation prior to flowering) in rosette plants is induced by:",
+      "options": [
+        "Auxins",
+        "Gibberellins",
+        "Abscisic acid",
+        "Cytokinins"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Gibberellins",
+        "Bolting",
+        "Internode Growth"
+      ]
+    },
+    {
+      "id": "bpg3",
+      "difficulty": "hard",
+      "questionText": "Which chromoprotein acts as the photoreceptor regulating photoperiodism in plants?",
+      "options": [
+        "Chlorophyll",
+        "Phytocyanin",
+        "Phytochrome",
+        "Carotenoid"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Phytochrome",
+        "Photoperiodism",
+        "Flowering Induction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_thermodynamics",
+  "chapterName": "Thermodynamics",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "td1",
+      "difficulty": "easy",
+      "questionText": "The Zeroth Law of Thermodynamics defines the concept of:",
+      "options": [
+        "Internal Energy",
+        "Heat",
+        "Work",
+        "Temperature"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Zeroth Law",
+        "Thermal Equilibrium",
+        "Temperature Definition"
+      ]
+    },
+    {
+      "id": "td2",
+      "difficulty": "easy",
+      "questionText": "During an isothermal process, which of the following variables remains constant for an ideal gas?",
+      "options": [
+        "Pressure",
+        "Volume",
+        "Temperature",
+        "Internal energy and Temperature"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Isothermal Process",
+        "State Variables",
+        "Internal Energy of Gas"
+      ]
+    },
+    {
+      "id": "td3",
+      "difficulty": "medium",
+      "questionText": "In an adiabatic expansion of an ideal gas, the relationship between pressure P and volume V is given by P·V^γ = constant. The work done during this process is proportional to:",
+      "options": [
+        "T_initial - T_final",
+        "T_final - T_initial",
+        "Constant temperature",
+        "Zero"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Adiabatic Process",
+        "Work Done in Adiabatic",
+        "Ideal Gas Laws"
+      ]
+    },
+    {
+      "id": "td4",
+      "difficulty": "medium",
+      "questionText": "A Carnot engine operates between temperatures 300 K and 600 K. Its efficiency is:",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Carnot Engine Efficiency",
+        "Temperature Limits",
+        "Second Law of Thermodynamics"
+      ]
+    },
+    {
+      "id": "td5",
+      "difficulty": "hard",
+      "questionText": "A refrigerator is working between 0°C and 27°C. The coefficient of performance (COP) of this refrigerator is:",
+      "options": [
+        "10",
+        "10.1",
+        "9",
+        "1"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Coefficient of Performance",
+        "Refrigerator Cycle",
+        "Thermodynamic Cycles"
+      ]
+    }
+  ]
+}

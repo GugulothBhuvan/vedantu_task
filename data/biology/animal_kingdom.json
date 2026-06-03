@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_animal_kingdom",
+  "chapterName": "Animal Kingdom",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bak1",
+      "difficulty": "easy",
+      "questionText": "A water vascular system is the characteristic diagnostic feature of which phylum?",
+      "options": [
+        "Porifera",
+        "Coelenterata",
+        "Echinodermata",
+        "Mollusca"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Echinodermata",
+        "Water Vascular System",
+        "Invertebrate Zoology"
+      ]
+    },
+    {
+      "id": "bak2",
+      "difficulty": "medium",
+      "questionText": "Metagenesis, or alternation of generations between polyp and medusa stages, is observed in:",
+      "options": [
+        "Hydra",
+        "Aurelia",
+        "Obelia",
+        "Adamsia"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Cnidaria",
+        "Metagenesis",
+        "Polyp and Medusa"
+      ]
+    },
+    {
+      "id": "bak3",
+      "difficulty": "hard",
+      "questionText": "Pneumatic (hollow) bones are an adaptation found in which class of animals?",
+      "options": [
+        "Amphibia",
+        "Reptilia",
+        "Aves",
+        "Mammalia"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Aves",
+        "Pneumatic Bones",
+        "Flight adaptations"
+      ]
+    }
+  ]
+}

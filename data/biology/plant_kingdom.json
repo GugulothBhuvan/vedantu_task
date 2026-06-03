@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_plant_kingdom",
+  "chapterName": "Plant Kingdom",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bpk1",
+      "difficulty": "easy",
+      "questionText": "Which group of algae is primarily responsible for producing algin, a commercial hydrocolloid?",
+      "options": [
+        "Green Algae",
+        "Red Algae",
+        "Brown Algae",
+        "Blue-green Algae"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Algae",
+        "Phaeophyceae",
+        "Hydrocolloids"
+      ]
+    },
+    {
+      "id": "bpk2",
+      "difficulty": "medium",
+      "questionText": "The juvenile, filamentous stage in the life cycle of mosses is known as:",
+      "options": [
+        "Antheridium",
+        "Protonema",
+        "Prothallus",
+        "Archegonium"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Mosses",
+        "Bryophytes",
+        "Protonema"
+      ]
+    },
+    {
+      "id": "bpk3",
+      "difficulty": "hard",
+      "questionText": "Double fertilization is a unique characteristic feature of which group of plants?",
+      "options": [
+        "Gymnosperms",
+        "Angiosperms",
+        "Pteridophytes",
+        "Bryophytes"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Double Fertilization",
+        "Angiosperms",
+        "Plant Reproduction"
+      ]
+    }
+  ]
+}

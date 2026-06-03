@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_thermal_properties",
+  "chapterName": "Thermal Properties of Matter",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "tp1",
+      "difficulty": "easy",
+      "questionText": "A Celsius thermometer and a Fahrenheit thermometer show the same reading at a temperature of:",
+      "options": [
+        "0°",
+        "40°",
+        "-40°",
+        "100°"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Temperature Scales",
+        "Celsius to Fahrenheit Conversion",
+        "Thermal Equilibrium"
+      ]
+    },
+    {
+      "id": "tp2",
+      "difficulty": "easy",
+      "questionText": "The coefficient of linear expansion of a metal is α. The coefficient of volume expansion of the same metal is:",
+      "options": [
+        "α",
+        "2α",
+        "3α",
+        "α/3"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Thermal Expansion",
+        "Linear vs Volume Expansion",
+        "Dimensional Relations"
+      ]
+    },
+    {
+      "id": "tp3",
+      "difficulty": "medium",
+      "questionText": "A block of ice of mass 10 g at 0°C is converted to water at 0°C. The amount of heat required is: (Latent heat of fusion of ice = 80 cal/g)",
+      "options": [
+        "80 cal",
+        "800 cal",
+        "10 cal",
+        "5400 cal"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Latent Heat",
+        "Phase Change",
+        "Calorimetry"
+      ]
+    },
+    {
+      "id": "tp4",
+      "difficulty": "medium",
+      "questionText": "If the absolute temperature of a black body is doubled, the rate of radiation emitted by it increases by a factor of:",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Stefan-Boltzmann Law",
+        "Thermal Radiation",
+        "Black Body Emission"
+      ]
+    },
+    {
+      "id": "tp5",
+      "difficulty": "hard",
+      "questionText": "A hot body cools from 60°C to 50°C in 10 minutes. If the room temperature is 30°C, the time taken for it to cool from 50°C to 40°C is approximately:",
+      "options": [
+        "10 minutes",
+        "12.5 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Newton's Law of Cooling",
+        "Rate of Cooling",
+        "Thermal Physics"
+      ]
+    }
+  ]
+}

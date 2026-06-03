@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_states_of_matter",
+  "chapterName": "States of Matter",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "csm1",
+      "difficulty": "easy",
+      "questionText": "Boyle's Law states that at constant temperature, the volume of a given mass of gas is:",
+      "options": [
+        "Directly proportional to pressure",
+        "Inversely proportional to pressure",
+        "Directly proportional to absolute temperature",
+        "Independent of pressure"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Boyle's Law",
+        "Gas Laws",
+        "Physical Chemistry"
+      ]
+    },
+    {
+      "id": "csm2",
+      "difficulty": "medium",
+      "questionText": "The value of universal gas constant R in SI units is:",
+      "options": [
+        "0.0821 L·atm/K/mol",
+        "8.314 J/K/mol",
+        "1.987 cal/K/mol",
+        "83.14 bar·cm³/K/mol"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Gas Constant",
+        "SI Units",
+        "Ideal Gas Law"
+      ]
+    },
+    {
+      "id": "csm3",
+      "difficulty": "hard",
+      "questionText": "The compressibility factor Z for an ideal gas at all temperatures and pressures is:",
+      "options": [
+        "Zero",
+        "Less than one",
+        "Greater than one",
+        "One"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Compressibility Factor",
+        "Real Gases",
+        "Deviation from Ideality"
+      ]
+    }
+  ]
+}

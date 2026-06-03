@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_d_f_block",
+  "chapterName": "The d- and f-Block Elements",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cdf1",
+      "difficulty": "easy",
+      "questionText": "Lanthanoid contraction, the steady decrease in ionic radii along the series, is caused by:",
+      "options": [
+        "Poor shielding effect of 4f electrons",
+        "Strong shielding of 4f electrons",
+        "Increase in atomic mass",
+        "Decrease in nuclear charge"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Lanthanoid Contraction",
+        "4f Shielding",
+        "Lanthanoids"
+      ]
+    },
+    {
+      "id": "cdf2",
+      "difficulty": "medium",
+      "questionText": "The magnetic moment of a transition metal ion with 3 unpaired electrons is: (in Bohr Magnetons)",
+      "options": [
+        "1.73 BM",
+        "2.83 BM",
+        "3.87 BM",
+        "4.90 BM"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Spin-only Magnetic Moment",
+        "Unpaired Electrons",
+        "Bohr Magneton"
+      ]
+    },
+    {
+      "id": "cdf3",
+      "difficulty": "hard",
+      "questionText": "Which transition element shows the maximum number of oxidation states in its compounds?",
+      "options": [
+        "Scandium (Sc)",
+        "Manganese (Mn)",
+        "Iron (Fe)",
+        "Copper (Cu)"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Manganese",
+        "Oxidation States",
+        "3d Transition Series"
+      ]
+    }
+  ]
+}

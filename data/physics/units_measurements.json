@@ -1,0 +1,177 @@
+{
+  "chapterId": "physics_units_measurements",
+  "chapterName": "Units and Measurements",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "um1",
+      "difficulty": "easy",
+      "questionText": "Which of the following is not a fundamental quantity in SI system?",
+      "options": [
+        "Mass",
+        "Temperature",
+        "Force",
+        "Length"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "SI Units",
+        "Fundamental Quantities",
+        "Derived Quantities"
+      ]
+    },
+    {
+      "id": "um2",
+      "difficulty": "easy",
+      "questionText": "The dimensional formula of force is:",
+      "options": [
+        "[MLT⁻¹]",
+        "[ML²T⁻²]",
+        "[MLT⁻²]",
+        "[M⁰LT⁻²]"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Dimensional Analysis",
+        "Force",
+        "Derived Units"
+      ]
+    },
+    {
+      "id": "um3",
+      "difficulty": "medium",
+      "questionText": "If the percentage errors in measuring mass and velocity are 2% and 3% respectively, then the percentage error in kinetic energy is:",
+      "options": [
+        "5%",
+        "7%",
+        "8%",
+        "10%"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Error Analysis",
+        "Propagation of Errors",
+        "Kinetic Energy"
+      ]
+    },
+    {
+      "id": "um4",
+      "difficulty": "medium",
+      "questionText": "The dimensional formula for Planck's constant is:",
+      "options": [
+        "[ML²T⁻¹]",
+        "[ML²T⁻²]",
+        "[MLT⁻¹]",
+        "[ML⁻¹T⁻²]"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Dimensional Formula",
+        "Planck Constant",
+        "Modern Physics Basics"
+      ]
+    },
+    {
+      "id": "um5",
+      "difficulty": "hard",
+      "questionText": "The length and breadth of a rectangular sheet are measured as 5.2 m and 3.10 m respectively. The correct area according to significant figures is:",
+      "options": [
+        "16.12 m²",
+        "16.1 m²",
+        "16 m²",
+        "16.120 m²"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Significant Figures",
+        "Measurements",
+        "Area Calculation"
+      ]
+    },
+    {
+      "id": "um6",
+      "difficulty": "easy",
+      "questionText": "Which instrument is used to measure the diameter of a thin wire accurately?",
+      "options": [
+        "Meter scale",
+        "Vernier calipers",
+        "Screw gauge",
+        "Stopwatch"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Measuring Instruments",
+        "Least Count",
+        "Precision"
+      ]
+    },
+    {
+      "id": "um7",
+      "difficulty": "medium",
+      "questionText": "The least count of a Vernier calipers is 0.01 cm. If the main scale reading is 2.3 cm and the 6th Vernier division coincides, the measured length is:",
+      "options": [
+        "2.36 cm",
+        "2.30 cm",
+        "2.06 cm",
+        "2.60 cm"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Vernier Calipers",
+        "Least Count",
+        "Measurement Reading"
+      ]
+    },
+    {
+      "id": "um8",
+      "difficulty": "hard",
+      "questionText": "Which of the following equations is dimensionally correct?",
+      "options": [
+        "s = ut + at²",
+        "v² = u² + 2as",
+        "F = mv",
+        "P = Ft²"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Dimensional Consistency",
+        "Equations of Motion",
+        "Verification of Formulae"
+      ]
+    },
+    {
+      "id": "um9",
+      "difficulty": "easy",
+      "questionText": "The SI unit of pressure is:",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "SI Units",
+        "Pressure",
+        "Derived Units"
+      ]
+    },
+    {
+      "id": "um10",
+      "difficulty": "medium",
+      "questionText": "The dimensional formula of gravitational constant G is:",
+      "options": [
+        "[M⁻¹L³T⁻²]",
+        "[ML²T⁻²]",
+        "[M⁻²LT⁻¹]",
+        "[ML⁻¹T⁻²]"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Gravitational Constant",
+        "Dimensional Formula",
+        "Universal Gravitation"
+      ]
+    }
+  ]
+}

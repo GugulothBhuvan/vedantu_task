@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_body_fluids_circulation",
+  "chapterName": "Body Fluids and Circulation",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bfc1",
+      "difficulty": "easy",
+      "questionText": "Which node is known as the natural pacemaker of the human heart?",
+      "options": [
+        "AVN",
+        "Sinoatrial Node (SAN)",
+        "Purkinje fibers",
+        "Bundle of His"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Sinoatrial Node",
+        "Pacemaker",
+        "Cardiac Cycle"
+      ]
+    },
+    {
+      "id": "bfc2",
+      "difficulty": "medium",
+      "questionText": "Erythroblastosis foetalis occurs when which combination of Rh factor is present in parents?",
+      "options": [
+        "Mother Rh+, Fetus Rh-",
+        "Mother Rh-, Fetus Rh+",
+        "Mother Rh-, Fetus Rh-",
+        "Mother Rh+, Fetus Rh+"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Rh Incompatibility",
+        "Erythroblastosis Foetalis",
+        "Hemolytic Disease"
+      ]
+    },
+    {
+      "id": "bfc3",
+      "difficulty": "hard",
+      "questionText": "During the joint diastole phase of the cardiac cycle, which of the following is true?",
+      "options": [
+        "All chambers are in systole",
+        "All chambers are in diastole, tricuspid and bicuspid valves are open",
+        "Semilunar valves are open",
+        "Atria are contracted while ventricles are relaxed"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Joint Diastole",
+        "Cardiac Cycle Phases",
+        "Valvular Mechanics"
+      ]
+    }
+  ]
+}

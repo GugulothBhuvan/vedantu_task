@@ -1,0 +1,177 @@
+{
+    "chapterId": "physics_motion_plane",
+    "chapterName": "Motion in a Plane",
+    "subject": "Physics",
+    "questions": [
+        {
+            "id": "mip1",
+            "difficulty": "easy",
+            "questionText": "A projectile is fired with a velocity of 20 m/s at an angle of 30° with the horizontal. The horizontal component of velocity is:",
+            "options": [
+                "10 m/s",
+                "17.3 m/s",
+                "20 m/s",
+                "8.66 m/s"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Projectile Motion",
+                "Vector Components",
+                "Horizontal Velocity"
+            ]
+        },
+        {
+            "id": "mip2",
+            "difficulty": "easy",
+            "questionText": "The path followed by a projectile is:",
+            "options": [
+                "Straight line",
+                "Circle",
+                "Parabola",
+                "Ellipse"
+            ],
+            "correctOptionIndex": 2,
+            "conceptualTags": [
+                "Projectile Motion",
+                "Trajectory",
+                "Parabolic Path"
+            ]
+        },
+        {
+            "id": "mip3",
+            "difficulty": "medium",
+            "questionText": "A particle moves 3 m east and then 4 m north. The magnitude of displacement is:",
+            "options": [
+                "5 m",
+                "7 m",
+                "1 m",
+                "6 m"
+            ],
+            "correctOptionIndex": 0,
+            "conceptualTags": [
+                "Vectors",
+                "Displacement",
+                "Pythagoras Theorem"
+            ]
+        },
+        {
+            "id": "mip4",
+            "difficulty": "medium",
+            "questionText": "A projectile has a time of flight of 4 s. Taking g = 10 m/s², the vertical component of initial velocity is:",
+            "options": [
+                "10 m/s",
+                "15 m/s",
+                "20 m/s",
+                "25 m/s"
+            ],
+            "correctOptionIndex": 2,
+            "conceptualTags": [
+                "Projectile Motion",
+                "Time of Flight",
+                "Vertical Velocity"
+            ]
+        },
+        {
+            "id": "mip5",
+            "difficulty": "hard",
+            "questionText": "A projectile is projected at an angle of 45° with speed 20√2 m/s. The horizontal range is:",
+            "options": [
+                "20 m",
+                "40 m",
+                "60 m",
+                "80 m"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Projectile Motion",
+                "Horizontal Range",
+                "Maximum Range"
+            ]
+        },
+        {
+            "id": "mip6",
+            "difficulty": "easy",
+            "questionText": "Which quantity has both magnitude and direction?",
+            "options": [
+                "Distance",
+                "Speed",
+                "Scalar",
+                "Velocity"
+            ],
+            "correctOptionIndex": 3,
+            "conceptualTags": [
+                "Vectors",
+                "Scalars and Vectors",
+                "Velocity"
+            ]
+        },
+        {
+            "id": "mip7",
+            "difficulty": "medium",
+            "questionText": "Two vectors of magnitudes 3 units and 4 units are perpendicular to each other. Their resultant magnitude is:",
+            "options": [
+                "1 unit",
+                "5 units",
+                "7 units",
+                "12 units"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Vector Addition",
+                "Resultant Vector",
+                "Perpendicular Vectors"
+            ]
+        },
+        {
+            "id": "mip8",
+            "difficulty": "hard",
+            "questionText": "A particle moves in a circle of radius 2 m with constant speed 4 m/s. Its centripetal acceleration is:",
+            "options": [
+                "2 m/s²",
+                "4 m/s²",
+                "8 m/s²",
+                "16 m/s²"
+            ],
+            "correctOptionIndex": 2,
+            "conceptualTags": [
+                "Circular Motion",
+                "Centripetal Acceleration",
+                "Uniform Circular Motion"
+            ]
+        },
+        {
+            "id": "mip9",
+            "difficulty": "easy",
+            "questionText": "The SI unit of angular velocity is:",
+            "options": [
+                "m/s",
+                "rad/s",
+                "m/s²",
+                "rad"
+            ],
+            "correctOptionIndex": 1,
+            "conceptualTags": [
+                "Angular Motion",
+                "Angular Velocity",
+                "SI Units"
+            ]
+        },
+        {
+            "id": "mip10",
+            "difficulty": "medium",
+            "questionText": "A projectile reaches maximum height in 2 seconds. The maximum height attained is:",
+            "options": [
+                "5 m",
+                "10 m",
+                "20 m",
+                "40 m"
+            ],
+            "correctOptionIndex": 2,
+            "conceptualTags": [
+                "Projectile Motion",
+                "Maximum Height",
+                "Vertical Motion"
+            ]
+        }
+    ]
+}

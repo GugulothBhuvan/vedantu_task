@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_organic_nitrogen",
+  "chapterName": "Organic Compounds Containing Nitrogen",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "con1",
+      "difficulty": "easy",
+      "questionText": "The Carbylamine test (isocyanide test) is shown exclusively by:",
+      "options": [
+        "Primary amines",
+        "Secondary amines",
+        "Tertiary amines",
+        "Amides"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Carbylamine Test",
+        "Primary Amines",
+        "Isocyanide smell"
+      ]
+    },
+    {
+      "id": "con2",
+      "difficulty": "medium",
+      "questionText": "Hoffmann Bromamide Degradation reaction converts an amide into an amine containing:",
+      "options": [
+        "Same number of carbon atoms",
+        "One carbon atom less",
+        "One carbon atom more",
+        "Double the carbon atoms"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Hoffmann Bromamide",
+        "Amides to Amines",
+        "Carbon chain shortening"
+      ]
+    },
+    {
+      "id": "con3",
+      "difficulty": "hard",
+      "questionText": "Gabriel Phthalimide Synthesis is used to prepare pure:",
+      "options": [
+        "Primary aliphatic amines",
+        "Primary aromatic amines",
+        "Secondary amines",
+        "Tertiary amines"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Gabriel Phthalimide",
+        "Primary Aliphatic Amines",
+        "Phthalimide"
+      ]
+    }
+  ]
+}

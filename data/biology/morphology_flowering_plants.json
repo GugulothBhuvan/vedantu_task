@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_morphology_flowering_plants",
+  "chapterName": "Morphology of Flowering Plants",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bmf1",
+      "difficulty": "easy",
+      "questionText": "Pneumatophores (breathing roots) are commonly found in which of the following plants?",
+      "options": [
+        "Rhizophora",
+        "Banyan tree",
+        "Maize",
+        "Sweet potato"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Root Modifications",
+        "Pneumatophores",
+        "Halophytes"
+      ]
+    },
+    {
+      "id": "bmf2",
+      "difficulty": "medium",
+      "questionText": "Which type of placentation is characterized by the ovules developing on the inner wall of the ovary (e.g. in Mustard)?",
+      "options": [
+        "Marginal",
+        "Parietal",
+        "Axile",
+        "Free central"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Placentation",
+        "Parietal Placentation",
+        "Ovary structure"
+      ]
+    },
+    {
+      "id": "bmf3",
+      "difficulty": "hard",
+      "questionText": "The head or capitulum inflorescence is a distinguishing feature of which family?",
+      "options": [
+        "Solanaceae",
+        "Fabaceae",
+        "Liliaceae",
+        "Asteraceae"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Inflorescence",
+        "Capitulum",
+        "Asteraceae"
+      ]
+    }
+  ]
+}

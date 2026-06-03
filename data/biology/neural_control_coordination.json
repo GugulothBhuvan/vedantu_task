@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_neural_control_coordination",
+  "chapterName": "Neural Control and Coordination",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bnc1",
+      "difficulty": "easy",
+      "questionText": "The functional gap between two communicating neurons is known as a:",
+      "options": [
+        "Synapse",
+        "Axon hillock",
+        "Myelin sheath",
+        "Node of Ranvier"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Synapse",
+        "Neurotransmission",
+        "Neuron structure"
+      ]
+    },
+    {
+      "id": "bnc2",
+      "difficulty": "medium",
+      "questionText": "Which region of the human brain controls body temperature, urge for eating and drinking?",
+      "options": [
+        "Cerebellum",
+        "Pons",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Hypothalamus",
+        "Brain regions",
+        "Homeostasis"
+      ]
+    },
+    {
+      "id": "bnc3",
+      "difficulty": "hard",
+      "questionText": "The resting membrane potential of a neuron is maintained primarily by the active transport of:",
+      "options": [
+        "3 Na+ ions outwards and 2 K+ inwards",
+        "2 Na+ ions outwards and 3 K+ inwards",
+        "Na+ and K+ moving inwards equally",
+        "Ca2+ ions moving outwards"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Resting Potential",
+        "Sodium-Potassium Pump",
+        "Action Potential"
+      ]
+    }
+  ]
+}

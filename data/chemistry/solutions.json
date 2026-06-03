@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_solutions",
+  "chapterName": "Solutions",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "csl1",
+      "difficulty": "easy",
+      "questionText": "Which of the following properties is classified as a colligative property of solutions?",
+      "options": [
+        "Viscosity",
+        "Surface tension",
+        "Osmotic pressure",
+        "Refractive index"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Colligative Properties",
+        "Osmotic Pressure",
+        "Solution concentration"
+      ]
+    },
+    {
+      "id": "csl2",
+      "difficulty": "medium",
+      "questionText": "According to Henry's Law, when temperature is increased, the Henry's law constant (K_H) of a gas in liquid:",
+      "options": [
+        "Decreases",
+        "Increases, lowering solubility",
+        "Remains constant",
+        "Becomes zero"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Henry's Law",
+        "Gas Solubility",
+        "Temperature dependence"
+      ]
+    },
+    {
+      "id": "csl3",
+      "difficulty": "hard",
+      "questionText": "An azeotropic mixture of two liquids shows a boiling point lower than both components. This indicates:",
+      "options": [
+        "Ideal behavior",
+        "Negative deviation from Raoult's Law",
+        "Positive deviation from Raoult's Law",
+        "Zero vapor pressure"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Azeotropes",
+        "Raoult's Law deviation",
+        "Vapor Pressure"
+      ]
+    }
+  ]
+}

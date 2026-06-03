@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_environmental_chemistry",
+  "chapterName": "Environmental Chemistry",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cec1",
+      "difficulty": "easy",
+      "questionText": "Which gas is primarily responsible for the greenhouse effect and global warming?",
+      "options": [
+        "Methane",
+        "Carbon dioxide",
+        "Sulfur dioxide",
+        "Nitrous oxide"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Greenhouse Effect",
+        "Carbon Dioxide",
+        "Global warming"
+      ]
+    },
+    {
+      "id": "cec2",
+      "difficulty": "medium",
+      "questionText": "Classical (reducing) smog, which occurs in cool humid climates, is a mixture of:",
+      "options": [
+        "Smoke, fog, and sulfur dioxide",
+        "Smoke, fog, and nitric oxide",
+        "Hydrocarbons and ozone",
+        "Dust and PAN"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Reducing Smog",
+        "Classical Smog",
+        "Air Pollution"
+      ]
+    },
+    {
+      "id": "cec3",
+      "difficulty": "hard",
+      "questionText": "BOD (Biochemical Oxygen Demand) is a measure of:",
+      "options": [
+        "Total dissolved oxygen in water",
+        "Oxygen required to biochemically decompose organic matter in water",
+        "Industrial output of oxygen",
+        "Carbon concentration"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "BOD",
+        "Water Quality",
+        "Eutrophication"
+      ]
+    }
+  ]
+}

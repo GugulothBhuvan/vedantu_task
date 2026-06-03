@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_basic_concepts",
+  "chapterName": "Some Basic Concepts of Chemistry",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cbc1",
+      "difficulty": "easy",
+      "questionText": "What is the SI unit of the amount of substance?",
+      "options": [
+        "Kilogram",
+        "Mole",
+        "Gram",
+        "Liter"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "SI Units",
+        "Mole",
+        "General Chemistry"
+      ]
+    },
+    {
+      "id": "cbc2",
+      "difficulty": "medium",
+      "questionText": "The number of significant figures in the measurement 0.0025 g is:",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "5"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Significant Figures",
+        "Measurements",
+        "Errors"
+      ]
+    },
+    {
+      "id": "cbc3",
+      "difficulty": "hard",
+      "questionText": "A compound contains 4.07% hydrogen, 24.27% carbon, and 71.65% chlorine. Its empirical formula is:",
+      "options": [
+        "CH2Cl",
+        "CHCl",
+        "CH3Cl",
+        "C2H2Cl"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Empirical Formula",
+        "Percent Composition",
+        "Stoichiometry"
+      ]
+    }
+  ]
+}

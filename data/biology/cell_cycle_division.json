@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_cell_cycle_division",
+  "chapterName": "Cell Cycle and Cell Division",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bcc1",
+      "difficulty": "easy",
+      "questionText": "During which phase of the cell cycle does DNA replication occur?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Interphase",
+        "S phase",
+        "DNA Replication"
+      ]
+    },
+    {
+      "id": "bcc2",
+      "difficulty": "medium",
+      "questionText": "Crossing over, which leads to genetic recombination, occurs during which stage of Prophase I?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Meiosis I",
+        "Pachytene",
+        "Crossing Over"
+      ]
+    },
+    {
+      "id": "bcc3",
+      "difficulty": "hard",
+      "questionText": "The dissolution of the synaptonemal complex begins during which stage?",
+      "options": [
+        "Zygotene",
+        "Pachytene",
+        "Diplotene",
+        "Diakinesis"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Prophase I",
+        "Diplotene",
+        "Synaptonemal Complex"
+      ]
+    }
+  ]
+}

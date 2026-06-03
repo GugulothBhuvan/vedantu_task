@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_metallurgy",
+  "chapterName": "General Principles of Isolation of Elements",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cmt1",
+      "difficulty": "easy",
+      "questionText": "The froth floatation process for concentration of ores is most commonly applied to:",
+      "options": [
+        "Oxide ores",
+        "Sulfide ores",
+        "Carbonate ores",
+        "Halide ores"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Froth Floatation",
+        "Sulfide Ores",
+        "Ore Concentration"
+      ]
+    },
+    {
+      "id": "cmt2",
+      "difficulty": "medium",
+      "questionText": "Mond's Process is a pyrometallurgical refining technique utilized for:",
+      "options": [
+        "Copper",
+        "Nickel",
+        "Zirconium",
+        "Iron"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Mond Process",
+        "Nickel Refining",
+        "Vapor Phase Refining"
+      ]
+    },
+    {
+      "id": "cmt3",
+      "difficulty": "hard",
+      "questionText": "In the metallurgy of Aluminum (Hall-Heroult process), cryolite (Na3AlF6) is added to alumina to:",
+      "options": [
+        "Oxidize the metal",
+        "Lower the melting point and increase electrical conductivity",
+        "Absorb impurities",
+        "Act as a catalyst"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Hall-Heroult Process",
+        "Cryolite",
+        "Alumina electrolysis"
+      ]
+    }
+  ]
+}

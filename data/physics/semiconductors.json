@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_semiconductors",
+  "chapterName": "Semiconductors and Electronics",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "sc1",
+      "difficulty": "easy",
+      "questionText": "In an n-type semiconductor, the majority charge carriers are:",
+      "options": [
+        "Electrons",
+        "Holes",
+        "Both electrons and holes equally",
+        "Ions"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Extrinsic Semiconductors",
+        "n-type doping",
+        "Charge Carriers"
+      ]
+    },
+    {
+      "id": "sc2",
+      "difficulty": "easy",
+      "questionText": "During forward bias of a p-n junction diode, the width of the depletion layer:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains unchanged",
+        "Becomes infinite"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "P-N Junction Diode",
+        "Forward Bias Characteristics",
+        "Depletion Layer Dynamics"
+      ]
+    },
+    {
+      "id": "sc3",
+      "difficulty": "medium",
+      "questionText": "Which diode is specially designed to operate under reverse breakdown region as a voltage regulator?",
+      "options": [
+        "Photodiode",
+        "Light Emitting Diode (LED)",
+        "Zener Diode",
+        "Solar Cell"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Zener Diode",
+        "Voltage Regulation",
+        "Reverse Breakdown"
+      ]
+    },
+    {
+      "id": "sc4",
+      "difficulty": "medium",
+      "questionText": "If the input frequency to a full-wave rectifier is 50 Hz, the output ripple frequency is:",
+      "options": [
+        "50 Hz",
+        "100 Hz",
+        "25 Hz",
+        "200 Hz"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Full-wave Rectifier",
+        "Ripple Frequency",
+        "AC to DC Conversion"
+      ]
+    },
+    {
+      "id": "sc5",
+      "difficulty": "hard",
+      "questionText": "The output of a two-input NAND gate is low (0) only when:",
+      "options": [
+        "Both inputs are low (0)",
+        "One input is low (0) and other is high (1)",
+        "Both inputs are high (1)",
+        "Any one input is low (0)"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Logic Gates",
+        "NAND Gate Truth Table",
+        "Boolean Algebra"
+      ]
+    }
+  ]
+}

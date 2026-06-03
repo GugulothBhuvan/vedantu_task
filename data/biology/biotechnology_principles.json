@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_biotechnology_principles",
+  "chapterName": "Biotechnology: Principles and Processes",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "btp2_1",
+      "difficulty": "easy",
+      "questionText": "Restriction enzymes are commonly referred to in biotechnology as:",
+      "options": [
+        "Molecular scissors",
+        "Molecular glues",
+        "Vector carriers",
+        "Selectable markers"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Restriction Enzymes",
+        "Molecular Scissors",
+        "Recombinant DNA"
+      ]
+    },
+    {
+      "id": "btp2_2",
+      "difficulty": "medium",
+      "questionText": "In the cloning vector pBR322, the genes ampR and tetR are examples of:",
+      "options": [
+        "Cloning sites",
+        "Selectable markers",
+        "Origins of replication",
+        "Promoters"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "pBR322",
+        "Selectable Markers",
+        "Cloning Vectors"
+      ]
+    },
+    {
+      "id": "btp2_3",
+      "difficulty": "hard",
+      "questionText": "Taq DNA polymerase used in PCR is isolated from which thermophilic bacterium?",
+      "options": [
+        "Escherichia coli",
+        "Thermus aquaticus",
+        "Bacillus thuringiensis",
+        "Agrobacterium tumefaciens"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "PCR",
+        "Taq Polymerase",
+        "Thermus aquaticus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_mineral_nutrition",
+  "chapterName": "Mineral Nutrition",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bmn1",
+      "difficulty": "easy",
+      "questionText": "Which mineral ion plays a major role in the opening and closing of stomata?",
+      "options": [
+        "Calcium",
+        "Magnesium",
+        "Potassium",
+        "Iron"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Stomata regulation",
+        "Potassium",
+        "Plant Nutrition"
+      ]
+    },
+    {
+      "id": "bmn2",
+      "difficulty": "medium",
+      "questionText": "The nitrogenase enzyme responsible for biological nitrogen fixation contains which metals?",
+      "options": [
+        "Fe and Mo",
+        "Cu and Zn",
+        "Mg and Mn",
+        "Ca and B"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Nitrogenase",
+        "Nitrogen Fixation",
+        "Co-factors"
+      ]
+    },
+    {
+      "id": "bmn3",
+      "difficulty": "hard",
+      "questionText": "Whiptail of cauliflower is a classic deficiency symptom associated with which micronutrient?",
+      "options": [
+        "Boron",
+        "Zinc",
+        "Molybdenum",
+        "Manganese"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Deficiency Symptoms",
+        "Molybdenum",
+        "Cauliflower disease"
+      ]
+    }
+  ]
+}

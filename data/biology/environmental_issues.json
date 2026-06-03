@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_environmental_issues",
+  "chapterName": "Environmental Issues",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bei1",
+      "difficulty": "easy",
+      "questionText": "The international treaty signed in Montreal to control the emission of ozone-depleting substances is known as:",
+      "options": [
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Paris Agreement",
+        "Gothenburg Protocol"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Montreal Protocol",
+        "Ozone Depletion",
+        "Environmental Treaties"
+      ]
+    },
+    {
+      "id": "bei2",
+      "difficulty": "medium",
+      "questionText": "In an aquatic food chain, biomagnification of toxic substances like DDT or mercury is highest in:",
+      "options": [
+        "Zooplankton",
+        "Small fish",
+        "Large fish",
+        "Fish-eating birds"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Biomagnification",
+        "DDT",
+        "Water Pollution"
+      ]
+    },
+    {
+      "id": "bei3",
+      "difficulty": "hard",
+      "questionText": "Minamata disease in Japan was a clinical consequence of water pollution by which heavy metal?",
+      "options": [
+        "Lead",
+        "Cadmium",
+        "Mercury",
+        "Arsenic"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Minamata Disease",
+        "Mercury Poisoning",
+        "Water Pollution Diseases"
+      ]
+    }
+  ]
+}

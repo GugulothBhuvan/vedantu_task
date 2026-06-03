@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_evolution",
+  "chapterName": "Evolution",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bev1",
+      "difficulty": "easy",
+      "questionText": "Analogous organs are anatomical structures that perform similar functions but have different origins. They indicate:",
+      "options": [
+        "Divergent evolution",
+        "Convergent evolution",
+        "Adaptive radiation",
+        "Homology"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Analogous Organs",
+        "Convergent Evolution",
+        "Evidence of Evolution"
+      ]
+    },
+    {
+      "id": "bev2",
+      "difficulty": "medium",
+      "questionText": "In the classic Miller-Urey experiment, what gases were mixed to simulate the primitive atmosphere?",
+      "options": [
+        "CH4, NH3, H2, and water vapor",
+        "CO2, O2, N2, and water vapor",
+        "He, Ar, Ne, and water vapor",
+        "CH4, CO2, O2, and N2"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Miller-Urey Experiment",
+        "Origin of Life",
+        "Chemical Evolution"
+      ]
+    },
+    {
+      "id": "bev3",
+      "difficulty": "hard",
+      "questionText": "What was the cranial capacity (brain size) of Homo erectus, discovered in Java?",
+      "options": [
+        "650-800 cc",
+        "900 cc",
+        "1400 cc",
+        "1600 cc"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Human Evolution",
+        "Homo erectus",
+        "Cranial Capacity"
+      ]
+    }
+  ]
+}

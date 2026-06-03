@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_gravitation",
+  "chapterName": "Gravitation",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "gr1",
+      "difficulty": "easy",
+      "questionText": "The acceleration due to gravity on the surface of the Earth is g. At a height equal to the radius of the Earth (R), the acceleration due to gravity becomes:",
+      "options": [
+        "g/2",
+        "g/4",
+        "g/9",
+        "Zero"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Acceleration due to Gravity",
+        "Height Variation",
+        "Inverse Square Law"
+      ]
+    },
+    {
+      "id": "gr2",
+      "difficulty": "easy",
+      "questionText": "At what depth below the surface of the Earth does the acceleration due to gravity become half of its value on the surface? (R = Radius of Earth)",
+      "options": [
+        "R/4",
+        "R/2",
+        "3R/4",
+        "R"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Acceleration due to Gravity",
+        "Depth Variation",
+        "Linear Drop"
+      ]
+    },
+    {
+      "id": "gr3",
+      "difficulty": "medium",
+      "questionText": "The time period of a satellite orbiting close to the surface of the Earth is T. If it is moved to an orbit of radius 4 times the Earth's radius, its new time period will be:",
+      "options": [
+        "2T",
+        "4T",
+        "8T",
+        "16T"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Kepler's Third Law",
+        "Orbital Motion",
+        "Satellite Mechanics"
+      ]
+    },
+    {
+      "id": "gr4",
+      "difficulty": "medium",
+      "questionText": "The escape velocity from the surface of Earth is 11.2 km/s. If a planet has twice the mass and twice the radius of Earth, the escape velocity from its surface will be:",
+      "options": [
+        "11.2 km/s",
+        "22.4 km/s",
+        "5.6 km/s",
+        "15.8 km/s"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Escape Velocity",
+        "Mass-Radius Proportionality",
+        "Gravitational Potential"
+      ]
+    },
+    {
+      "id": "gr5",
+      "difficulty": "hard",
+      "questionText": "A body of mass m is projected vertically upwards from the surface of Earth with a speed equal to half of the escape velocity. The maximum height reached by it is: (R = Radius of Earth)",
+      "options": [
+        "R/4",
+        "R/3",
+        "R/2",
+        "R"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Conservation of Energy",
+        "Gravitational Potential Energy",
+        "Projectile Motion"
+      ]
+    }
+  ]
+}

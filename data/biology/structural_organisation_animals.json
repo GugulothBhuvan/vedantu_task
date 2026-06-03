@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_structural_organisation_animals",
+  "chapterName": "Structural Organisation in Animals",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bso1",
+      "difficulty": "easy",
+      "questionText": "Goblet cells of the alimentary canal which secrete mucus are modified:",
+      "options": [
+        "Squamous epithelial cells",
+        "Columnar epithelial cells",
+        "Cuboidal epithelial cells",
+        "Ciliated epithelial cells"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Epithelial Tissue",
+        "Goblet Cells",
+        "Mucus Secretion"
+      ]
+    },
+    {
+      "id": "bso2",
+      "difficulty": "medium",
+      "questionText": "The cells responsible for maintaining the matrix of cartilage are called:",
+      "options": [
+        "Osteocytes",
+        "Chondrocytes",
+        "Fibroblasts",
+        "Mast cells"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Cartilage",
+        "Chondrocytes",
+        "Connective Tissue"
+      ]
+    },
+    {
+      "id": "bso3",
+      "difficulty": "hard",
+      "questionText": "In cockroaches, Malpighian tubules open at the junction of:",
+      "options": [
+        "Foregut and Midgut",
+        "Midgut and Hindgut",
+        "Proventriculus and Gizzard",
+        "Hindgut and Rectum"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Cockroach Anatomy",
+        "Malpighian Tubules",
+        "Excretory System"
+      ]
+    }
+  ]
+}

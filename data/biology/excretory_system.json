@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_excretory_system",
+  "chapterName": "Excretory Products and their Elimination",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bes1",
+      "difficulty": "easy",
+      "questionText": "What is the structural and functional unit of the human kidney?",
+      "options": [
+        "Nephron",
+        "Neuron",
+        "Ureter",
+        "Glomerulus"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Nephron",
+        "Kidney structure",
+        "Excretory System"
+      ]
+    },
+    {
+      "id": "bes2",
+      "difficulty": "medium",
+      "questionText": "Which part of the Loop of Henle is highly permeable to water but impermeable to electrolytes?",
+      "options": [
+        "Ascending limb",
+        "Descending limb",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Loop of Henle",
+        "Countercurrent Mechanism",
+        "Water Reabsorption"
+      ]
+    },
+    {
+      "id": "bes3",
+      "difficulty": "hard",
+      "questionText": "Podocytes are specialized cells that form the filtration slits. They are located in:",
+      "options": [
+        "Inner wall of Bowman's capsule",
+        "Glomerular capillaries",
+        "Proximal convoluted tubule",
+        "Afferent arteriole"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Podocytes",
+        "Bowman's Capsule",
+        "Ultrafiltration"
+      ]
+    }
+  ]
+}

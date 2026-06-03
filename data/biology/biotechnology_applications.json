@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_biotechnology_applications",
+  "chapterName": "Biotechnology and its Applications",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bta1",
+      "difficulty": "easy",
+      "questionText": "The first transgenic cow 'Rosie' produced human protein-enriched milk. Which human protein was present in it?",
+      "options": [
+        "Human alpha-lactalbumin",
+        "Beta-galactosidase",
+        "Insulin",
+        "Alpha-1-antitrypsin"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Transgenic Animals",
+        "Rosie cow",
+        "Human alpha-lactalbumin"
+      ]
+    },
+    {
+      "id": "bta2",
+      "difficulty": "medium",
+      "questionText": "Bt toxin crystals produced by Bacillus thuringiensis kill insects by causing:",
+      "options": [
+        "Nervous system paralysis",
+        "Pores in the midgut epithelial cells leading to swelling and lysis",
+        "Respiratory tract blockage",
+        "Inability to digest food"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Bt Toxin",
+        "Bacillus thuringiensis",
+        "Pest-resistant crops"
+      ]
+    },
+    {
+      "id": "bta3",
+      "difficulty": "hard",
+      "questionText": "RNA interference (RNAi) involves silencing of specific genes by using double-stranded RNA to prevent:",
+      "options": [
+        "DNA replication",
+        "Transcription",
+        "Translation of specific mRNA",
+        "RNA processing"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "RNAi",
+        "Gene Silencing",
+        "Nematode control"
+      ]
+    }
+  ]
+}

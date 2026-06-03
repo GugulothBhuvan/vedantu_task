@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_thermodynamics",
+  "chapterName": "Chemical Thermodynamics",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "ctd1",
+      "difficulty": "easy",
+      "questionText": "For a cyclic process, the change in internal energy (ΔU) of the system is:",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Dependent on path"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Cyclic Process",
+        "Internal Energy",
+        "State Functions"
+      ]
+    },
+    {
+      "id": "ctd2",
+      "difficulty": "medium",
+      "questionText": "For a process to be spontaneous at all temperatures, the conditions must be:",
+      "options": [
+        "ΔH is positive, ΔS is negative",
+        "ΔH is negative, ΔS is positive",
+        "ΔH is positive, ΔS is positive",
+        "ΔH is negative, ΔS is negative"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Spontaneity",
+        "Gibbs Free Energy",
+        "Entropy change"
+      ]
+    },
+    {
+      "id": "ctd3",
+      "difficulty": "hard",
+      "questionText": "The relationship between enthalpy change (ΔH) and internal energy change (ΔU) is given by:",
+      "options": [
+        "ΔH = ΔU + Δn_g RT",
+        "ΔH = ΔU - PΔV",
+        "ΔU = ΔH + TΔS",
+        "ΔH = ΔU + VΔP"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Enthalpy-Internal Energy",
+        "Gas Work",
+        "Thermodynamics equations"
+      ]
+    }
+  ]
+}

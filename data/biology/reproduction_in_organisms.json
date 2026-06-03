@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_reproduction_in_organisms",
+  "chapterName": "Reproduction in Organisms",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bro2_1",
+      "difficulty": "easy",
+      "questionText": "Offsets are vegetative propagules produced by mitosis in which of the following plants?",
+      "options": [
+        "Water Hyacinth (Eichhornia)",
+        "Ginger",
+        "Potato",
+        "Onion"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Vegetative Propagation",
+        "Offsets",
+        "Asexual Reproduction"
+      ]
+    },
+    {
+      "id": "bro2_2",
+      "difficulty": "medium",
+      "questionText": "The plant Strobilanthes kunthiana (Neelakurinji) flowers once every:",
+      "options": [
+        "5 years",
+        "12 years",
+        "50 years",
+        "100 years"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Neelakurinji",
+        "Strobilanthes kunthiana",
+        "Flowering cycles"
+      ]
+    },
+    {
+      "id": "bro2_3",
+      "difficulty": "hard",
+      "questionText": "Non-flagellated, asexual spores produced exogenously in Penicillium are called:",
+      "options": [
+        "Zoospores",
+        "Conidia",
+        "Gemmules",
+        "Buds"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Fungal spores",
+        "Conidia",
+        "Penicillium"
+      ]
+    }
+  ]
+}

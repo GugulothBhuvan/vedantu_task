@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_properties_fluids",
+  "chapterName": "Mechanical Properties of Fluids",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "pf1",
+      "difficulty": "easy",
+      "questionText": "The hydraulic lift works on the principle of:",
+      "options": [
+        "Archimedes' Principle",
+        "Bernoulli's Theorem",
+        "Pascal's Law",
+        "Torricelli's Law"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Pascal's Law",
+        "Hydraulic Machines",
+        "Fluid Pressure"
+      ]
+    },
+    {
+      "id": "pf2",
+      "difficulty": "easy",
+      "questionText": "In a streamline flow of a liquid through a horizontal pipe of variable cross-section, where the velocity is maximum, the pressure is:",
+      "options": [
+        "Maximum",
+        "Minimum",
+        "Same at all points",
+        "Independent of velocity"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Bernoulli's Principle",
+        "Pressure-Velocity Relation",
+        "Streamline Flow"
+      ]
+    },
+    {
+      "id": "pf3",
+      "difficulty": "medium",
+      "questionText": "A liquid drops into a capillary tube of radius r. The height to which it rises is h. If the radius is doubled, the liquid will rise to a height of:",
+      "options": [
+        "h/2",
+        "2h",
+        "h",
+        "4h"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Capillary Rise",
+        "Jurin's Law",
+        "Surface Tension"
+      ]
+    },
+    {
+      "id": "pf4",
+      "difficulty": "medium",
+      "questionText": "The excess pressure inside a soap bubble of radius R and surface tension T is:",
+      "options": [
+        "2T/R",
+        "4T/R",
+        "T/R",
+        "8T/R"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Excess Pressure",
+        "Soap Bubble",
+        "Surface Tension Interfaces"
+      ]
+    },
+    {
+      "id": "pf5",
+      "difficulty": "hard",
+      "questionText": "A small spherical ball of radius r falls through a viscous liquid. The terminal velocity of the ball is proportional to:",
+      "options": [
+        "r",
+        "r²",
+        "1/r",
+        "1/r²"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Terminal Velocity",
+        "Stokes' Law",
+        "Viscous Force"
+      ]
+    }
+  ]
+}

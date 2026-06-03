@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_sexual_reproduction_plants",
+  "chapterName": "Sexual Reproduction in Flowering Plants",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bsr1",
+      "difficulty": "easy",
+      "questionText": "The hard outer layer of a pollen grain, called exine, is composed of which highly resistant substance?",
+      "options": [
+        "Cellulose",
+        "Pectin",
+        "Sporopollenin",
+        "Lignin"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Sporopollenin",
+        "Exine",
+        "Pollen Grain structure"
+      ]
+    },
+    {
+      "id": "bsr2",
+      "difficulty": "medium",
+      "questionText": "The filiform apparatus, which guides the entry of pollen tube, is a characteristic feature of:",
+      "options": [
+        "Egg cell",
+        "Synergids",
+        "Antipodal cells",
+        "Central cell"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Filiform Apparatus",
+        "Synergids",
+        "Embryo Sac"
+      ]
+    },
+    {
+      "id": "bsr3",
+      "difficulty": "hard",
+      "questionText": "In typical angiosperms, triple fusion results in the formation of a structure that is:",
+      "options": [
+        "Haploid (n)",
+        "Diploid (2n)",
+        "Triploid (3n)",
+        "Tetraploid (4n)"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Triple Fusion",
+        "Primary Endosperm Nucleus",
+        "Endosperm ploidy"
+      ]
+    }
+  ]
+}

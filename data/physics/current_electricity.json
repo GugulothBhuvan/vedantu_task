@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_current_electricity",
+  "chapterName": "Current Electricity",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "ce1",
+      "difficulty": "easy",
+      "questionText": "A wire of resistance R is stretched uniformly to double its length. Its new resistance will be:",
+      "options": [
+        "R",
+        "2R",
+        "4R",
+        "R/2"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Resistivity and Resistance",
+        "Wire Stretching Effect",
+        "Volume Conservation"
+      ]
+    },
+    {
+      "id": "ce2",
+      "difficulty": "easy",
+      "questionText": "The temperature coefficient of resistance is positive for:",
+      "options": [
+        "Metals (conductors)",
+        "Semiconductors",
+        "Insulators",
+        "Electrolytes"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Temperature Dependence of Resistance",
+        "Conductors vs Semiconductors",
+        "Material Properties"
+      ]
+    },
+    {
+      "id": "ce3",
+      "difficulty": "medium",
+      "questionText": "According to Kirchhoff's Junction Rule, the algebraic sum of currents meeting at any junction in an electrical circuit is zero. This law is based on the conservation of:",
+      "options": [
+        "Energy",
+        "Momentum",
+        "Charge",
+        "Mass"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Kirchhoff's First Law",
+        "Conservation of Charge",
+        "Circuit Junctions"
+      ]
+    },
+    {
+      "id": "ce4",
+      "difficulty": "medium",
+      "questionText": "Four resistances of 10 Ω, 10 Ω, 10 Ω, and 30 Ω form a Wheatstone bridge. To balance the bridge, the resistance of 30 Ω should be shunted with a resistance of:",
+      "options": [
+        "10 Ω",
+        "15 Ω",
+        "20 Ω",
+        "30 Ω"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Wheatstone Bridge Balance",
+        "Parallel Combinations (Shunts)",
+        "Circuit Analysis"
+      ]
+    },
+    {
+      "id": "ce5",
+      "difficulty": "hard",
+      "questionText": "In a potentiometer experiment, a cell of emf 1.25 V gives a balance point at 35 cm length of the wire. If the cell is replaced by another cell, the balance point shifts to 63 cm. The emf of the second cell is:",
+      "options": [
+        "2.0 V",
+        "2.25 V",
+        "2.5 V",
+        "3.0 V"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Potentiometer",
+        "Comparison of EMFs",
+        "Measurement Techniques"
+      ]
+    }
+  ]
+}

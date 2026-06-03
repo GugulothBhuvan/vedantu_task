@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_equilibrium",
+  "chapterName": "Equilibrium",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "ceq1",
+      "difficulty": "easy",
+      "questionText": "At 25°C, the pH of a neutral aqueous solution is exactly:",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "1"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "pH scale",
+        "Neutrality",
+        "Ionic Equilibrium"
+      ]
+    },
+    {
+      "id": "ceq2",
+      "difficulty": "medium",
+      "questionText": "According to the Bronsted-Lowry concept, the conjugate base of NH4+ is:",
+      "options": [
+        "NH3",
+        "NH2-",
+        "NH4OH",
+        "NH2+"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Conjugate Acid-Base",
+        "Bronsted-Lowry",
+        "Acid-Base theory"
+      ]
+    },
+    {
+      "id": "ceq3",
+      "difficulty": "hard",
+      "questionText": "If the solubility product (Ksp) of a sparingly soluble salt BaSO4 is S², the solubility S in mol/L is:",
+      "options": [
+        "Ksp",
+        "√Ksp",
+        "Ksp²",
+        "Ksp / 2"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Solubility Product",
+        "Salt Solubility",
+        "Equilibrium constant"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_chemical_bonding",
+  "chapterName": "Chemical Bonding and Molecular Structure",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "ccb1",
+      "difficulty": "easy",
+      "questionText": "According to VSEPR theory, the molecular geometry of Ammonia (NH3) is:",
+      "options": [
+        "Trigonal planar",
+        "Tetrahedral",
+        "Trigonal pyramidal",
+        "Linear"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "VSEPR Theory",
+        "Ammonia",
+        "Molecular Shapes"
+      ]
+    },
+    {
+      "id": "ccb2",
+      "difficulty": "medium",
+      "questionText": "The hybridization of carbon atoms in graphite and diamond are, respectively:",
+      "options": [
+        "sp2 and sp3",
+        "sp3 and sp2",
+        "sp2 and sp",
+        "sp3 and sp"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Hybridization",
+        "Graphite and Diamond",
+        "Allotropes of Carbon"
+      ]
+    },
+    {
+      "id": "ccb3",
+      "difficulty": "hard",
+      "questionText": "Why is the dipole moment of NF3 significantly lower than that of NH3?",
+      "options": [
+        "N-F bonds are non-polar",
+        "Fluorine is less electronegative than hydrogen",
+        "In NF3, the orbital dipole and net bond dipoles oppose each other",
+        "NF3 has planar geometry"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Dipole Moment",
+        "NF3 vs NH3",
+        "Vector Sum of Dipoles"
+      ]
+    }
+  ]
+}

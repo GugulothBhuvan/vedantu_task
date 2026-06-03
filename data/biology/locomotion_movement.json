@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_locomotion_movement",
+  "chapterName": "Locomotion and Movement",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "blm1",
+      "difficulty": "easy",
+      "questionText": "How many pairs of floating ribs are present in the human thoracic cage?",
+      "options": [
+        "2 pairs (11th and 12th)",
+        "3 pairs (8th, 9th, 10th)",
+        "5 pairs",
+        "7 pairs"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Skeletal System",
+        "Floating Ribs",
+        "Human Osteology"
+      ]
+    },
+    {
+      "id": "blm2",
+      "difficulty": "medium",
+      "questionText": "During skeletal muscle contraction, calcium ions bind to which regulatory protein to expose myosin-binding sites?",
+      "options": [
+        "Actin",
+        "Tropomyosin",
+        "Troponin",
+        "Myosin"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Muscle Contraction",
+        "Troponin",
+        "Sliding Filament Theory"
+      ]
+    },
+    {
+      "id": "blm3",
+      "difficulty": "hard",
+      "questionText": "The joint between the atlas and axis vertebrae is an example of:",
+      "options": [
+        "Hinge joint",
+        "Gliding joint",
+        "Pivot joint",
+        "Saddle joint"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Joints",
+        "Pivot Joint",
+        "Atlas and Axis"
+      ]
+    }
+  ]
+}

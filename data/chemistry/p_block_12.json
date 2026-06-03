@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_p_block_12",
+  "chapterName": "The p-Block Elements (Group 15 to 18)",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cpb12_1",
+      "difficulty": "easy",
+      "questionText": "In Haber's process for the manufacture of ammonia, which catalyst is used?",
+      "options": [
+        "Finely divided Iron",
+        "Platinum gauge",
+        "Nickel",
+        "Copper"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Haber Process",
+        "Iron Catalyst",
+        "Group 15 nitrogen"
+      ]
+    },
+    {
+      "id": "cpb12_2",
+      "difficulty": "medium",
+      "questionText": "Ostwald's process is the commercial industrial method for the production of:",
+      "options": [
+        "Sulfuric acid",
+        "Nitric acid",
+        "Ammonia",
+        "Hydrochloric acid"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Ostwald Process",
+        "Nitric Acid",
+        "Oxidation of Ammonia"
+      ]
+    },
+    {
+      "id": "cpb12_3",
+      "difficulty": "hard",
+      "questionText": "According to VSEPR theory, the molecular shape of Xenon tetrafluoride (XeF4) is:",
+      "options": [
+        "Tetrahedral",
+        "Square planar",
+        "Octahedral",
+        "See-saw"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "XeF4",
+        "Square Planar",
+        "Xenon Compounds"
+      ]
+    }
+  ]
+}

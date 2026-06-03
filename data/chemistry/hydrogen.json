@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_hydrogen",
+  "chapterName": "Hydrogen",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "chd1",
+      "difficulty": "easy",
+      "questionText": "Which radioactive isotope of hydrogen emits low-energy beta particles?",
+      "options": [
+        "Protium",
+        "Deuterium",
+        "Tritium",
+        "Heavy hydrogen"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Tritium",
+        "Hydrogen isotopes",
+        "Radioactivity"
+      ]
+    },
+    {
+      "id": "chd2",
+      "difficulty": "medium",
+      "questionText": "Calgon's method for softening hard water involves the removal of Ca2+ and Mg2+ ions using:",
+      "options": [
+        "Sodium hexametaphosphate",
+        "Sodium zeolite",
+        "Calcium hydroxide",
+        "Washing soda"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Water Softening",
+        "Calgon",
+        "Hard Water"
+      ]
+    },
+    {
+      "id": "chd3",
+      "difficulty": "hard",
+      "questionText": "Heavy water, widely used as a moderator in nuclear reactors, is chemically named:",
+      "options": [
+        "H2O2",
+        "D2O",
+        "T2O",
+        "H2O-18"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Heavy Water",
+        "Deuterium Oxide",
+        "Nuclear Moderators"
+      ]
+    }
+  ]
+}

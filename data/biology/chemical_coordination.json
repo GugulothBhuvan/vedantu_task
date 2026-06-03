@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_chemical_coordination",
+  "chapterName": "Chemical Coordination and Integration",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bcc2_1",
+      "difficulty": "easy",
+      "questionText": "Which hormone is commonly referred to as the emergency or fight-or-flight hormone?",
+      "options": [
+        "Thyroxine",
+        "Adrenaline (Epinephrine)",
+        "Insulin",
+        "Melatonin"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Adrenaline",
+        "Adrenal Medulla",
+        "Emergency Hormones"
+      ]
+    },
+    {
+      "id": "bcc2_2",
+      "difficulty": "medium",
+      "questionText": "Diabetes insipidus is a disorder caused by the hyposecretion of which hormone?",
+      "options": [
+        "Insulin",
+        "Glucagon",
+        "Vasopressin (ADH)",
+        "Oxytocin"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Vasopressin",
+        "Diabetes Insipidus",
+        "Pituitary Hormones"
+      ]
+    },
+    {
+      "id": "bcc2_3",
+      "difficulty": "hard",
+      "questionText": "The primary target organ for Thyroid Stimulating Hormone (TSH) is:",
+      "options": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal gland",
+        "Hypothalamus"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "TSH",
+        "Thyroid Gland",
+        "Endocrine system regulation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_oscillations",
+  "chapterName": "Oscillations",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "os1",
+      "difficulty": "easy",
+      "questionText": "For a particle executing Simple Harmonic Motion (SHM), the acceleration is directly proportional to its:",
+      "options": [
+        "Velocity",
+        "Displacement from mean position",
+        "Time period",
+        "Square of velocity"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "SHM Condition",
+        "Acceleration in SHM",
+        "Linear Restoring Force"
+      ]
+    },
+    {
+      "id": "os2",
+      "difficulty": "easy",
+      "questionText": "If the length of a simple pendulum is increased by 44%, its time period increases by:",
+      "options": [
+        "10%",
+        "20%",
+        "44%",
+        "12%"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Pendulum Time Period",
+        "Proportional Change",
+        "Gravitational Oscillators"
+      ]
+    },
+    {
+      "id": "os3",
+      "difficulty": "medium",
+      "questionText": "A particle executes SHM with an amplitude A. At what displacement from the mean position is its kinetic energy equal to its potential energy?",
+      "options": [
+        "A/2",
+        "A/√2",
+        "A/3",
+        "A · √3/2"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Energy in SHM",
+        "Kinetic and Potential Energy",
+        "Harmonic Displacement"
+      ]
+    },
+    {
+      "id": "os4",
+      "difficulty": "medium",
+      "questionText": "Two springs of constants k₁ and k₂ are connected in series. The equivalent spring constant of the combination is:",
+      "options": [
+        "k₁ + k₂",
+        "(k₁ · k₂) / (k₁ + k₂)",
+        "√(k₁ · k₂)",
+        "(k₁ + k₂) / 2"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Spring Combinations",
+        "Series Springs",
+        "Force Constants"
+      ]
+    },
+    {
+      "id": "os5",
+      "difficulty": "hard",
+      "questionText": "A body of mass m is suspended from a spring of constant k. It oscillates with a frequency f. If the mass is quadrupled (4m), the new frequency will be:",
+      "options": [
+        "f/2",
+        "2f",
+        "f/4",
+        "4f"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Oscillation Frequency",
+        "Mass Dependence",
+        "Spring-Mass System"
+      ]
+    }
+  ]
+}

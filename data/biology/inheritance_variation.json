@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_inheritance_variation",
+  "chapterName": "Principles of Inheritance and Variation",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "biv1",
+      "difficulty": "easy",
+      "questionText": "For how many years did Gregor Mendel conduct hybridization experiments on garden peas?",
+      "options": [
+        "5 years",
+        "7 years (1856-1863)",
+        "10 years",
+        "14 years"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Mendelian Genetics",
+        "Hybridization history",
+        "Pea plants"
+      ]
+    },
+    {
+      "id": "biv2",
+      "difficulty": "medium",
+      "questionText": "What is the genetic constitution (karyotype) of a person suffering from Klinefelter's Syndrome?",
+      "options": [
+        "45, XO",
+        "47, XXY",
+        "47, XYY",
+        "47, XXX"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Chromosomal Disorders",
+        "Klinefelter's Syndrome",
+        "Aneuploidy"
+      ]
+    },
+    {
+      "id": "biv3",
+      "difficulty": "hard",
+      "questionText": "When two genes show complementary gene interaction, the phenotypic ratio in F2 generation is:",
+      "options": [
+        "9 : 7",
+        "9 : 3 : 4",
+        "12 : 3 : 1",
+        "15 : 1"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Gene Interactions",
+        "Complementary Genes",
+        "Non-Mendelian Ratios"
+      ]
+    }
+  ]
+}

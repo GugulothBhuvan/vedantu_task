@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_aldehydes_ketones_carboxylic",
+  "chapterName": "Aldehydes, Ketones, and Carboxylic Acids",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cak1",
+      "difficulty": "easy",
+      "questionText": "Tollen's Reagent used to detect aldehydes is chemically:",
+      "options": [
+        "Alkaline CuSO4",
+        "Ammoniacal silver nitrate solution",
+        "Acidified KMnO4",
+        "Neutral FeCl3"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Tollen's Test",
+        "Silver Mirror",
+        "Aldehydes detection"
+      ]
+    },
+    {
+      "id": "cak2",
+      "difficulty": "medium",
+      "questionText": "Which reaction is undergone by aldehydes that do not contain any alpha-hydrogen atoms when treated with conc. NaOH?",
+      "options": [
+        "Aldol Condensation",
+        "Cannizzaro Reaction",
+        "Clemmensen Reduction",
+        "HVZ Reaction"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Cannizzaro Reaction",
+        "Formaldehyde/Benzaldehyde",
+        "Disproportionation"
+      ]
+    },
+    {
+      "id": "cak3",
+      "difficulty": "hard",
+      "questionText": "Clemmensen reduction of aldehydes or ketones to alkanes uses which reagent system?",
+      "options": [
+        "Zinc amalgam (Zn-Hg) and concentrated HCl",
+        "Hydrazine and KOH in ethylene glycol",
+        "LiAlH4 in dry ether",
+        "H2 on Pd/C"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Clemmensen Reduction",
+        "Carbonyl reduction",
+        "Zinc Amalgam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_electrostatics",
+  "chapterName": "Electrostatics",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "es1",
+      "difficulty": "easy",
+      "questionText": "Two charges q₁ and q₂ are separated by a distance r. If the distance between them is doubled, the electrostatic force between them becomes:",
+      "options": [
+        "2F",
+        "4F",
+        "F/2",
+        "F/4"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Coulomb's Law",
+        "Inverse Square Law",
+        "Electrostatic Force"
+      ]
+    },
+    {
+      "id": "es2",
+      "difficulty": "easy",
+      "questionText": "The electric field intensity at a distance r from an isolated point charge Q is proportional to:",
+      "options": [
+        "r",
+        "r²",
+        "1/r",
+        "1/r²"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Electric Field",
+        "Point Charge Field",
+        "Inverse Square Proportionality"
+      ]
+    },
+    {
+      "id": "es3",
+      "difficulty": "medium",
+      "questionText": "An electric dipole of dipole moment p is placed in a uniform electric field E. The maximum torque acting on the dipole is:",
+      "options": [
+        "p · E",
+        "p / E",
+        "Zero",
+        "2p · E"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Electric Dipole",
+        "Torque in Electric Field",
+        "Vector Products"
+      ]
+    },
+    {
+      "id": "es4",
+      "difficulty": "medium",
+      "questionText": "A charge Q is placed at the center of an imaginary cube. The electric flux passing through any one face of the cube is:",
+      "options": [
+        "Q / ε₀",
+        "Q / (6ε₀)",
+        "Q / (3ε₀)",
+        "Zero"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Gauss's Law",
+        "Electric Flux",
+        "Symmetry in Electrostatics"
+      ]
+    },
+    {
+      "id": "es5",
+      "difficulty": "hard",
+      "questionText": "An infinite line charge produces an electric field of 9 x 10⁴ N/C at a distance of 2 cm. The linear charge density is:",
+      "options": [
+        "0.1 μC/m",
+        "0.2 μC/m",
+        "0.3 μC/m",
+        "0.4 μC/m"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Infinite Line Charge",
+        "Linear Charge Density",
+        "Electric Field Calculations"
+      ]
+    }
+  ]
+}

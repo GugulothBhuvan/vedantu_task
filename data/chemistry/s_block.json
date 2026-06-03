@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_s_block",
+  "chapterName": "The s-Block Elements",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "csb1",
+      "difficulty": "easy",
+      "questionText": "In the flame test, sodium salts impart which characteristic color to the Bunsen burner flame?",
+      "options": [
+        "Crimson red",
+        "Apple green",
+        "Golden yellow",
+        "Lilac"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Flame Test",
+        "Sodium",
+        "Alkali Metals"
+      ]
+    },
+    {
+      "id": "csb2",
+      "difficulty": "medium",
+      "questionText": "The solubility of alkaline earth metal sulfates (BeSO4 to BaSO4) in water:",
+      "options": [
+        "Increases down the group",
+        "Decreases down the group",
+        "Remains constant",
+        "First increases then decreases"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Solubility trends",
+        "Sulfates",
+        "Alkaline Earth Metals"
+      ]
+    },
+    {
+      "id": "csb3",
+      "difficulty": "hard",
+      "questionText": "What is the chemical formula of Gypsum, a mineral used to slow down the setting of cement?",
+      "options": [
+        "CaSO4 · 1/2 H2O",
+        "CaSO4 · 2 H2O",
+        "CaSO4",
+        "MgSO4 · 7 H2O"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Gypsum",
+        "Cement chemistry",
+        "Calcium compounds"
+      ]
+    }
+  ]
+}

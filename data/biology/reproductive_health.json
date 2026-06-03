@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_reproductive_health",
+  "chapterName": "Reproductive Health",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "brh1",
+      "difficulty": "easy",
+      "questionText": "Which of the following is an example of a non-medicated Intrauterine Device (IUD)?",
+      "options": [
+        "Multiload 375",
+        "Lippes Loop",
+        "Progestasert",
+        "LNG-20"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "IUDs",
+        "Lippes Loop",
+        "Contraception methods"
+      ]
+    },
+    {
+      "id": "brh2",
+      "difficulty": "medium",
+      "questionText": "Oral contraceptive pills ('Saheli' etc.) prevent pregnancy primarily by:",
+      "options": [
+        "Creating physical barrier",
+        "Inhibiting ovulation and implantation",
+        "Killing the sperms in vagina",
+        "Blocking the fallopian tubes"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Saheli",
+        "Oral Contraceptives",
+        "Hormonal methods"
+      ]
+    },
+    {
+      "id": "brh3",
+      "difficulty": "hard",
+      "questionText": "In In-Vitro Fertilization (IVF), the transfer of an embryo up to 8 blastomeres into the fallopian tube is termed:",
+      "options": [
+        "ZIFT",
+        "GIFT",
+        "ICSI",
+        "IUT"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "ZIFT",
+        "ART",
+        "IVF techniques"
+      ]
+    }
+  ]
+}

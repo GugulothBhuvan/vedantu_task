@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_anatomy_flowering_plants",
+  "chapterName": "Anatomy of Flowering Plants",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "baf1",
+      "difficulty": "easy",
+      "questionText": "Which meristematic tissue is primarily responsible for secondary growth in dicot stems?",
+      "options": [
+        "Apical meristem",
+        "Intercalary meristem",
+        "Vascular cambium",
+        "Protoderm"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Vascular Cambium",
+        "Secondary Growth",
+        "Meristems"
+      ]
+    },
+    {
+      "id": "baf2",
+      "difficulty": "medium",
+      "questionText": "Casparian strips containing suberin are located in the cell walls of which tissue layer of roots?",
+      "options": [
+        "Epidermis",
+        "Cortex",
+        "Pericycle",
+        "Endodermis"
+      ],
+      "correctOptionIndex": 3,
+      "conceptualTags": [
+        "Endodermis",
+        "Casparian Strips",
+        "Root Anatomy"
+      ]
+    },
+    {
+      "id": "baf3",
+      "difficulty": "hard",
+      "questionText": "What is the primary function of large, empty bulliform cells located in the leaves of grasses?",
+      "options": [
+        "Photosynthesis",
+        "Water storage and rolling of leaves to reduce transpiration",
+        "Mechanical support",
+        "Food conduction"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Bulliform Cells",
+        "Monocot Anatomy",
+        "Leaf Adaptations"
+      ]
+    }
+  ]
+}

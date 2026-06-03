@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_work_energy_power",
+  "chapterName": "Work, Energy, and Power",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "wep1",
+      "difficulty": "easy",
+      "questionText": "A force F = (5i + 3j) N acts on a particle and displaces it by d = (2i - 1j) m. The work done by the force is:",
+      "options": [
+        "7 J",
+        "13 J",
+        "10 J",
+        "3 J"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Dot Product of Vectors",
+        "Work Done by Constant Force",
+        "Vector Mechanics"
+      ]
+    },
+    {
+      "id": "wep2",
+      "difficulty": "easy",
+      "questionText": "If the momentum of a body is increased by 50%, then its kinetic energy will increase by:",
+      "options": [
+        "50%",
+        "100%",
+        "125%",
+        "225%"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Momentum-Kinetic Energy Relation",
+        "Percentage Change",
+        "Kinematic Relations"
+      ]
+    },
+    {
+      "id": "wep3",
+      "difficulty": "medium",
+      "questionText": "A block of mass 2 kg compresses a horizontal spring of constant k = 200 N/m by 10 cm. When released, the maximum velocity attained by the block is:",
+      "options": [
+        "1 m/s",
+        "2 m/s",
+        "0.5 m/s",
+        "1.5 m/s"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Conservation of Mechanical Energy",
+        "Spring Potential Energy",
+        "Elastic Forces"
+      ]
+    },
+    {
+      "id": "wep4",
+      "difficulty": "medium",
+      "questionText": "An engine lifts 100 kg of water through a height of 10 m in 5 seconds. The power of the engine is: (Take g = 10 m/s², assume 100% efficiency)",
+      "options": [
+        "1 kW",
+        "2 kW",
+        "3 kW",
+        "4 kW"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Power",
+        "Work Done against Gravity",
+        "Rate of Work"
+      ]
+    },
+    {
+      "id": "wep5",
+      "difficulty": "hard",
+      "questionText": "A sphere of mass m collides head-on elastically with another sphere of mass 2m at rest. The fraction of kinetic energy transferred to the second sphere is:",
+      "options": [
+        "1/3",
+        "4/9",
+        "8/9",
+        "2/3"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Elastic Collisions",
+        "Kinetic Energy Transfer",
+        "Conservation of Momentum"
+      ]
+    }
+  ]
+}

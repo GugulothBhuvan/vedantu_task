@@ -1,0 +1,92 @@
+{
+  "chapterId": "physics_modern_physics",
+  "chapterName": "Modern Physics",
+  "subject": "Physics",
+  "questions": [
+    {
+      "id": "mp1",
+      "difficulty": "easy",
+      "questionText": "The work function of a metal is 2.5 eV. If light of photon energy 4.0 eV is incident on the metal, the maximum kinetic energy of the emitted photoelectrons is:",
+      "options": [
+        "1.5 eV",
+        "2.5 eV",
+        "4.0 eV",
+        "6.5 eV"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Photoelectric Effect",
+        "Einstein's Equation",
+        "Work Function"
+      ]
+    },
+    {
+      "id": "mp2",
+      "difficulty": "easy",
+      "questionText": "The de Broglie wavelength of an electron accelerated through a potential difference of 100 V is approximately:",
+      "options": [
+        "1.227 Å",
+        "12.27 Å",
+        "0.1227 Å",
+        "122.7 Å"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "de Broglie Wavelength",
+        "Electron Acceleration",
+        "Wave-Particle Duality"
+      ]
+    },
+    {
+      "id": "mp3",
+      "difficulty": "medium",
+      "questionText": "According to Bohr's model, the ratio of the energy of an electron in the ground state (n = 1) to the first excited state (n = 2) of a Hydrogen atom is:",
+      "options": [
+        "1:2",
+        "2:1",
+        "4:1",
+        "1:4"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Bohr's Atomic Model",
+        "Hydrogen Energy Levels",
+        "Principal Quantum Number"
+      ]
+    },
+    {
+      "id": "mp4",
+      "difficulty": "medium",
+      "questionText": "A radioactive sample has a half-life of 10 days. The fraction of the sample left undecayed after 30 days is:",
+      "options": [
+        "1/3",
+        "1/4",
+        "1/8",
+        "1/16"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Radioactive Decay Law",
+        "Half-life",
+        "Exponential Decay"
+      ]
+    },
+    {
+      "id": "mp5",
+      "difficulty": "hard",
+      "questionText": "If the binding energy per nucleon of Oxygen (¹⁶O) is 8.0 MeV and that of Helium (⁴He) is 7.0 MeV, the energy required to split a ¹⁶O nucleus into four ⁴He nuclei is:",
+      "options": [
+        "8 MeV",
+        "16 MeV",
+        "32 MeV",
+        "64 MeV"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Binding Energy",
+        "Mass Defect",
+        "Nuclear Reactions"
+      ]
+    }
+  ]
+}

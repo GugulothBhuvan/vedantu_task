@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_organisms_populations",
+  "chapterName": "Organisms and Populations",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bop1",
+      "difficulty": "easy",
+      "questionText": "An interaction where one species benefits and the other is neither harmed nor benefited (+, 0) is called:",
+      "options": [
+        "Mutualism",
+        "Parasitism",
+        "Commensalism",
+        "Amensalism"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Species Interactions",
+        "Commensalism",
+        "Population Ecology"
+      ]
+    },
+    {
+      "id": "bop2",
+      "difficulty": "medium",
+      "questionText": "Phytophagous insects are those that feed on:",
+      "options": [
+        "Other insects",
+        "Dead organic matter",
+        "Plant sap and other parts of plants",
+        "Nectar only"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Phytophagous",
+        "Herbivore adaptation",
+        "Ecology"
+      ]
+    },
+    {
+      "id": "bop3",
+      "difficulty": "hard",
+      "questionText": "In the Verhulst-Pearl logistic growth equation, dN/dt = rN((K-N)/K), the symbol 'K' stands for:",
+      "options": [
+        "Intrinsic rate of increase",
+        "Carrying capacity",
+        "Population density",
+        "Biotic potential"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Logistic Growth",
+        "Carrying Capacity",
+        "Growth Equations"
+      ]
+    }
+  ]
+}

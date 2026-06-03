@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_respiration_in_plants",
+  "chapterName": "Respiration in Plants",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "brp1",
+      "difficulty": "easy",
+      "questionText": "Where do all the enzymes of glycolysis reside in a plant cell?",
+      "options": [
+        "Mitochondrial matrix",
+        "Cytoplasm",
+        "Chloroplast stroma",
+        "Endoplasmic reticulum"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Glycolysis",
+        "Cytoplasm",
+        "Cellular Respiration"
+      ]
+    },
+    {
+      "id": "brp2",
+      "difficulty": "medium",
+      "questionText": "What is the Respiratory Quotient (RQ) value of tripalmitin (a fat)?",
+      "options": [
+        "1.0",
+        "0.9",
+        "0.7",
+        "1.4"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Respiratory Quotient",
+        "Fats oxidation",
+        "Tripalmitin"
+      ]
+    },
+    {
+      "id": "brp3",
+      "difficulty": "hard",
+      "questionText": "For every NADH molecule oxidized through the Electron Transport System (ETS), how many ATP molecules are produced?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "ETS",
+        "NADH oxidation",
+        "ATP Yield"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_biomolecules_chem",
+  "chapterName": "Biomolecules (Chemistry)",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cbm1",
+      "difficulty": "easy",
+      "questionText": "Which carbohydrate is the main storage form of glucose in animal bodies?",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Sucrose"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Glycogen",
+        "Carbohydrates",
+        "Storage polymers"
+      ]
+    },
+    {
+      "id": "cbm2",
+      "difficulty": "medium",
+      "questionText": "The linkage that joins amino acid monomers together to form proteins is the:",
+      "options": [
+        "Glycosidic linkage",
+        "Phosphodiester linkage",
+        "Peptide bond",
+        "Ester linkage"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Peptide Bond",
+        "Proteins structure",
+        "Amide linkages"
+      ]
+    },
+    {
+      "id": "cbm3",
+      "difficulty": "hard",
+      "questionText": "Which of the following purine bases is present in both DNA and RNA?",
+      "options": [
+        "Uracil",
+        "Thymine",
+        "Adenine (and Guanine)",
+        "Cytosine"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Purines",
+        "Adenine",
+        "Nucleic Acids"
+      ]
+    }
+  ]
+}

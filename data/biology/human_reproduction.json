@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_human_reproduction",
+  "chapterName": "Human Reproduction",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "bhr1",
+      "difficulty": "easy",
+      "questionText": "In human females, fertilization of the ovum typically takes place in which region of the fallopian tube?",
+      "options": [
+        "Infundibulum",
+        "Isthmus",
+        "Ampulla",
+        "Uterus"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "Fertilization site",
+        "Ampulla",
+        "Female Reproductive System"
+      ]
+    },
+    {
+      "id": "bhr2",
+      "difficulty": "medium",
+      "questionText": "Which hormone is secreted exclusively by the placenta during pregnancy in human females?",
+      "options": [
+        "Estrogen",
+        "Progesterone",
+        "Human Chorionic Gonadotropin (hCG)",
+        "Luteinizing Hormone (LH)"
+      ],
+      "correctOptionIndex": 2,
+      "conceptualTags": [
+        "hCG",
+        "Placental Hormones",
+        "Pregnancy endocrinology"
+      ]
+    },
+    {
+      "id": "bhr3",
+      "difficulty": "hard",
+      "questionText": "Leydig cells, which synthesize and secrete testicular androgens, are stimulated by:",
+      "options": [
+        "FSH",
+        "LH (ICSH)",
+        "GnRH",
+        "Progesterone"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Leydig Cells",
+        "LH",
+        "Male endocrinology"
+      ]
+    }
+  ]
+}

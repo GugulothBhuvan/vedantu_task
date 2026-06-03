@@ -1,0 +1,58 @@
+{
+  "chapterId": "chemistry_periodic_table",
+  "chapterName": "Classification of Elements",
+  "subject": "Chemistry",
+  "questions": [
+    {
+      "id": "cpt1",
+      "difficulty": "easy",
+      "questionText": "Which element in the periodic table has the highest electronegativity?",
+      "options": [
+        "Oxygen",
+        "Fluorine",
+        "Chlorine",
+        "Nitrogen"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "Electronegativity",
+        "Fluorine",
+        "Periodic Trends"
+      ]
+    },
+    {
+      "id": "cpt2",
+      "difficulty": "medium",
+      "questionText": "What is the correct order of ionic radii of the following isoelectronic species: N3-, O2-, F-, Na+?",
+      "options": [
+        "N3- > O2- > F- > Na+",
+        "Na+ > F- > O2- > N3-",
+        "F- > O2- > N3- > Na+",
+        "O2- > N3- > F- > Na+"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Isoelectronic Species",
+        "Ionic Radii",
+        "Periodic Trends"
+      ]
+    },
+    {
+      "id": "cpt3",
+      "difficulty": "hard",
+      "questionText": "According to IUPAC nomenclature, what is the temporary name of the element with atomic number 119?",
+      "options": [
+        "Ununbium",
+        "Ununennium",
+        "Unnilseptium",
+        "Ununquadium"
+      ],
+      "correctOptionIndex": 1,
+      "conceptualTags": [
+        "IUPAC Nomenclature",
+        "Superheavy Elements",
+        "Atomic Number 119"
+      ]
+    }
+  ]
+}

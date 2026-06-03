@@ -1,0 +1,58 @@
+{
+  "chapterId": "biology_living_world",
+  "chapterName": "The Living World",
+  "subject": "Biology",
+  "questions": [
+    {
+      "id": "blw1",
+      "difficulty": "easy",
+      "questionText": "Which of the following represents the correct taxonomic hierarchy order in descending order?",
+      "options": [
+        "Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species",
+        "Kingdom -> Class -> Phylum -> Order -> Family -> Genus -> Species",
+        "Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom",
+        "Phylum -> Class -> Order -> Family -> Genus -> Species -> Kingdom"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Taxonomic Hierarchy",
+        "Systematics",
+        "Taxonomy"
+      ]
+    },
+    {
+      "id": "blw2",
+      "difficulty": "medium",
+      "questionText": "ICBN stands for which of the following terms?",
+      "options": [
+        "International Code for Botanical Nomenclature",
+        "International Congress for Biological Names",
+        "Indian Code of Botanical Names",
+        "International Commission for Botanical Nomenclature"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "ICBN",
+        "Nomenclature",
+        "Scientific Naming"
+      ]
+    },
+    {
+      "id": "blw3",
+      "difficulty": "hard",
+      "questionText": "In a taxonomic key, a pair of contrasting characters is referred to as a:",
+      "options": [
+        "Couplet",
+        "Lead",
+        "Taxon",
+        "Monograph"
+      ],
+      "correctOptionIndex": 0,
+      "conceptualTags": [
+        "Taxonomic Keys",
+        "Couplet",
+        "Identification Tools"
+      ]
+    }
+  ]
+}
