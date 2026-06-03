@@ -1,759 +1,350 @@
-# AdaptiveNEET — Final Product Requirements Document (PRD)
+# AdaptiveNEET — Product Requirements Document (PRD)
+
+# Table of Contents
+1. [Executive Summary](#1-executive-summary)
+2. [Problem Statement](#2-problem-statement)
+3. [Context & Opportunity](#3-context--opportunity)
+4. [Product Vision](#4-product-vision)
+5. [Target Users](#5-target-users)
+6. [User Pain Points](#6-user-pain-points)
+7. [Product Goals & Success Metrics](#7-product-goals--success-metrics)
+8. [Product Principles](#8-product-principles)
+9. [Core Product Loop](#9-core-product-loop)
+10. [Information Architecture (IA)](#10-information-architecture-ia)
+11. [User Flows](#11-user-flows)
+12. [Core Features](#12-core-features)
+    * [12.1 Home](#121-home)
+    * [12.2 Practice Mode](#122-practice-mode)
+    * [12.3 Quiz Mode](#123-quiz-mode)
+    * [12.4 Test Mode](#124-test-mode)
+    * [12.5 Question Bank](#125-question-bank)
+    * [12.6 Progress Tracking](#126-progress-tracking)
+13. [Adaptive Learning System](#13-adaptive-learning-system)
+14. [AI Explanation Engine](#14-ai-explanation-engine)
+15. [Progress & Motivation System](#15-progress--motivation-system)
+16. [UX Philosophy & Design Decisions](#16-ux-philosophy--design-decisions)
+17. [Gamification & Retention Strategy](#17-gamification--retention-strategy)
+18. [Technical Architecture](#18-technical-architecture)
+19. [Database Schema Overview](#19-database-schema-overview)
+20. [API & Backend Overview](#20-api--backend-overview)
+21. [State Management Approach](#21-state-management-approach)
+22. [Analytics & Tracking](#22-analytics--tracking)
+23. [MVP Scope](#23-mvp-scope)
+24. [Stretch Features](#24-stretch-features)
+25. [Assumptions & Constraints](#25-assumptions--constraints)
+26. [Risks & Tradeoffs](#26-risks--tradeoffs)
+27. [Future Roadmap](#27-future-roadmap)
+28. [Why AdaptiveNEET Matters](#28-why-adaptiveneet-matters)
+29. [Appendix](#29-appendix)
+
+---
 
 # 1. Executive Summary
-
-## Product Name
-
-AdaptiveNEET
-
-## Product Category
-
-AI-Enhanced Adaptive Test-Series Application for NEET Aspirants
-
-## Product Positioning
-
-“A LeetCode for NEET” — an AI-enhanced adaptive MCQ practice platform focused on revision efficiency, weak-area reinforcement, and personalized conceptual feedback.
-
-## Product Vision
-
-To help NEET aspirants prepare smarter under compressed timelines through adaptive question sequencing, AI-powered explanations, and personalized reinforcement loops.
+AdaptiveNEET is a premium, AI-enhanced adaptive MCQ practice platform designed specifically for NEET aspirants. Positioned as **"A LeetCode for NEET"**, the platform shifts focus from passive content consumption to active, personalized testing. It incorporates client-side adaptive item sequencing, real-time AI-powered concept explanations, and comprehensive progress dashboards to enable highly efficient, weak-area-focused revision cycles.
 
 ---
 
-# 2. Problem Definition
-
-# 2.1 Context
-
-Following the Re-NEET scenario, aspirants face:
-
-* increased stress,
-* compressed preparation windows,
-* revision overload,
-* and reduced confidence.
-
-Most existing platforms already provide:
-
-* large question banks,
-* mock tests,
-* lectures,
-* static analytics dashboards.
-
-However, students still struggle with:
-
-* identifying weak areas,
-* prioritizing revision,
-* receiving personalized guidance,
-* and practicing efficiently under time pressure.
+# 2. Problem Statement
+NEET aspirants face massive syllabus volumes with static study tools. Traditional practice sets and mock tests serve generic question sequences, forcing students to waste time on mastered concepts while leaving crucial weaknesses unreinforced. Furthermore, students lack immediate, conceptual explanations for mistakes, resulting in repeated errors, low study efficiency, and cognitive burnout.
 
 ---
 
-# 2.2 Core Problem Statement
-
-NEET aspirants struggle to efficiently improve weak areas because current practice systems are static, non-adaptive, and lack personalized reinforcement.
-
----
-
-# 2.3 Product Thesis
-
-AdaptiveNEET is not designed to maximize content consumption.
-
-It is designed to maximize revision efficiency under pressure.
+# 3. Context & Opportunity
+Following high-pressure scenarios like Re-NEET, preparation windows are compressed, and student anxiety is amplified. This context creates a massive market demand for hyper-focused revision tools. The rise of advanced LLMs (like Google Gemini) presents a unique technical opportunity to replace generic text solutions with interactive, context-aware AI tutors that explain the exact scientific misconceptions in a student's answer.
 
 ---
 
-# 3. Product Goals
-
-# Primary Goals
-
-## Goal 1 — Adaptive Practice
-
-Deliver personalized question sequencing based on user performance.
+# 4. Product Vision
+To empower every NEET aspirant to practice smarter, build unbreakable concept confidence, and boost revision efficiency by continuously aligning practice questions to their personal boundary of competence.
 
 ---
 
-## Goal 2 — AI-Powered Reinforcement
-
-Provide AI-generated conceptual explanations and learning reinforcement.
-
----
-
-## Goal 3 — Weak Area Identification
-
-Continuously detect and reinforce weak topics.
-
----
-
-## Goal 4 — Fast Learning Feedback
-
-Provide immediate answer evaluation and contextual explanations.
-
----
-
-## Goal 5 — Lightweight Mobile Experience
-
-Create a focused, fast, and motivating adaptive practice environment.
-
----
-
-# 4. Product Scope
-
-# 4.1 In Scope
-
-## Core Features
-
-### A. Adaptive MCQ Solving Loop
-
-* One question at a time
-* Multiple-choice interaction
-* Instant correctness evaluation
-* AI-generated explanation
-* Adaptive next-question logic
-
----
-
-### B. Adaptive Difficulty Engine
-
-* Difficulty progression
-* Weak-topic prioritization
-* Performance-aware sequencing
-
----
-
-### C. AI Explanation Engine
-
-* Conceptual explanations
-* Simplified reasoning
-* Wrong-answer reinforcement
-* Educational feedback
-
----
-
-### D. Progress Tracking
-
-* Accuracy %
-* Questions solved
-* Streak tracking
-* Topic mastery
-* Weak-topic visibility
-
----
-
-### E. Weak Area Reinforcement
-
-* Topic weakness detection
-* Personalized recommendations
-* Adaptive practice prioritization
-
----
-
-### F. Lightweight Dashboard
-
-* Continue practice
-* Progress visibility
-* Weak-topic insights
-
----
-
-# 4.2 Out of Scope
-
-The following are intentionally excluded from MVP:
-
-| Feature                   | Reason                                     |
-| ------------------------- | ------------------------------------------ |
-| Video lectures            | Not aligned with practice-first philosophy |
-| Full syllabus learning    | Scope expansion                            |
-| Community/social features | Low MVP value                              |
-| Large mock ecosystem      | Outside assignment scope                   |
-| Advanced gamification     | Lower priority                             |
-| Multi-device sync         | Future scope                               |
-| Full AI tutor chatbot     | Over-engineering                           |
-
----
-
-# 5. User Personas
-
-# Persona — Aarav Sharma
-
-| Attribute          | Details                             |
-| ------------------ | ----------------------------------- |
-| Age                | 18                                  |
-| Device             | Android Smartphone                  |
-| Goal               | Improve weak areas efficiently      |
-| Pain Point         | Doesn’t know what to revise next    |
-| Behavioral Pattern | Practices in short focused sessions |
+# 5. Target Users
+* **Primary Persona**: **Aarav Sharma (18)**, a dedicated NEET dropper preparing from home using an Android smartphone.
+* **Attributes**:
+  * Highly motivated but frequently feels overwhelmed by the 97+ chapters of syllabus.
+  * Struggles to diagnose why he gets specific physical chemistry/physics formula problems wrong.
+  * Demands lightweight, fast-loading, distraction-free study sessions.
+  * Prefers short, highly targeted practice intervals (15-30 minutes) over bulk mock tests.
 
 ---
 
 # 6. User Pain Points
-
-| Pain Point                    | Impact               |
-| ----------------------------- | -------------------- |
-| Too much syllabus             | Cognitive overload   |
-| Static mock tests             | Inefficient practice |
-| No adaptive guidance          | Random revision      |
-| Repeated mistakes             | Confidence reduction |
-| No personalized reinforcement | Weak retention       |
+* **Cognitive Overload**: Sifting through thousands of pages of text or videos to revise single weak concepts.
+* **Syllabus Disorganization**: Inability to identify which precise sub-topic (e.g., Capacitance within Electrostatics) is dropping their mock test score.
+* **Static Question Banks**: Wasting energy answering "Easy" level questions repeatedly instead of advancing to "Medium" or "Hard".
+* **Generic Solutions**: Standard answer keys stating the correct option without explaining *why* the user's specific wrong selection was conceptually flawed.
 
 ---
 
-# 7. Jobs To Be Done (JTBD)
+# 7. Product Goals & Success Metrics
+### Goals
+* **G1: Adaptive practice personalization** based on active correctness patterns.
+* **G2: Concept reinforcement** via instant, contextual AI explanations.
+* **G3: Precise diagnostics** mapping weak topics for immediate remediation.
+* **G4: Lag-free mobile experience** suitable for low-connectivity environments.
 
-# Functional Job
-
-Help me efficiently improve weak areas through adaptive practice.
-
----
-
-# Emotional Job
-
-Help me feel confident and less overwhelmed.
-
----
-
-# Social Job
-
-Help me feel prepared compared to peers.
+### Key Performance Indicators (KPIs)
+* **Accuracy Improvement Rate**: Average percentage increase in correct answers over a 14-day user cycle.
+* **Session Completion Rate**: Percentage of users who complete their customized/timed question targets.
+* **Engagement with AI Explanations**: Ratio of submitted questions where the user expands and reads the AI Explanation card.
+* **Daily Active User (DAU) Streak Continuation**: Frequency of consecutive days active.
 
 ---
 
-# 8. Core Product Philosophy
-
-AdaptiveNEET is:
-
-* practice-first,
-* adaptive,
-* reinforcement-oriented,
-* AI-enhanced.
-
-The product focuses on:
-
-* personalized question-solving,
-* adaptive prioritization,
-* and conceptual reinforcement.
+# 8. Product Principles
+* **Practice-First**: Get the user directly into a question loop within 2 clicks of launching the app.
+* **Real-time Reinforcement**: Evaluate answers immediately; explain while the student's train of thought is still active.
+* **Absolute Clarity**: Eliminate visual clutter. Use clean spacing, cohesive HSL-based colors, and legible typography (Outfit/Inter).
+* **Supportive & Encouraging**: Gamification should celebrate efforts and consistency rather than penalizing mistakes.
 
 ---
 
 # 9. Core Product Loop
-
-The entire application revolves around one continuous loop:
-
-Serve Adaptive Question
-→
-User Solves Question
-→
-Evaluate Correctness
-→
-Generate AI Explanation
-→
-Update Mastery Metrics
-→
-Serve Adaptive Next Question
-→
-Repeat
-
-Everything in the product supports this loop.
+```
+   ┌────────────────────────────────────────────────────────┐
+   │                                                        │
+   ▼                                                        │
+┌──────────────────────┐      ┌──────────────────────┐      │
+│   Serve Adaptive     │ ───> │  User Submits MCQ    │      │
+│      Question        │      │        Answer        │      │
+└──────────────────────┘      └──────────┬───────────┘      │
+                                         │                  │
+                                         ▼                  │
+┌──────────────────────┐      ┌──────────────────────┐      │
+│ Update Topic Mastery │ <─── │ Evaluate & Render AI │      │
+│      and Streak      │      │     Explanation      │ ─────┘
+└──────────────────────┘      └──────────────────────┘
+```
+Each user action updates the store state, which feeds back into the adaptive engine to dictate the next question's metadata parameters (subject, chapter, and difficulty).
 
 ---
 
-# 10. Feature Requirements
-
-# 10.1 Adaptive Question Engine
-
-## Description
-
-The system dynamically selects the next question based on user performance patterns.
-
----
-
-## Inputs
-
-* previous answer correctness,
-* topic accuracy,
-* streak count,
-* recent failures,
-* current difficulty level.
-
----
-
-## Difficulty Levels
-
-* Easy
-* Medium
-* Hard
-
----
-
-## Adaptive Rules
-
-| User Behavior               | System Action              |
-| --------------------------- | -------------------------- |
-| Consecutive correct answers | Increase difficulty        |
-| Wrong answer                | Reinforce same topic       |
-| Multiple failures           | Mark weak topic            |
-| Strong topic mastery        | Introduce harder questions |
-
----
-
-# 10.2 AI Explanation Engine
-
-## Description
-
-An AI-powered explanation system provides concise conceptual reinforcement after every question attempt.
-
----
-
-## Responsibilities
-
-* Explain correct answers
-* Simplify concepts
-* Clarify misconceptions
-* Reinforce learning
-
----
-
-## Example AI Output
-
-### Incorrect Answer
-
-“You confused voltage with current flow. Remember: voltage pushes current through resistance. Use V = IR.”
-
----
-
-## AI Provider
-
-* Gemini API (preferred)
-  OR
-* OpenAI API
-
----
-
-## Backend Role
-
-AI requests are routed through backend APIs for:
-
-* API key security,
-* prompt control,
-* request management.
-
----
-
-# 10.3 Progress Tracking
-
-## Metrics
-
-* Accuracy %
-* Questions solved
-* Current streak
-* Topic mastery
-* Weak-topic frequency
-
----
-
-## Purpose
-
-* motivate users,
-* create visible progress,
-* encourage consistency.
-
----
-
-# 10.4 Weak Area Reinforcement
-
-## Responsibilities
-
-* identify weak topics,
-* prioritize weak-topic questions,
-* generate revision suggestions.
-
----
-
-## Example Recommendations
-
-* “Focus on Thermodynamics”
-* “Practice Plant Physiology”
-
----
-
-# 11. Information Architecture
-
-# Primary Navigation
-
-## 1. Home Dashboard
-
-Purpose:
-
-* progress visibility,
-* continue practice,
-* weak-topic overview.
-
----
-
-## 2. Practice Screen
-
-Purpose:
-
-* adaptive solving flow,
-* instant feedback,
-* AI explanations,
-* adaptive progression.
-
----
-
-## 3. Analytics Screen
-
-Purpose:
-
-* mastery visibility,
-* topic insights,
-* weak-area tracking.
-
----
-
-## 4. Settings Screen
-
-Purpose:
-
-* preferences,
-* reset progress.
-
----
-
-# 12. User Journey
-
-# First-Time User Flow
-
-## Step 1 — Open Application
-
-User launches app.
-
----
-
-## Step 2 — Lightweight Onboarding
-
-User enters:
-
-* name,
-* target score,
-* preferred subject.
-
----
-
-## Step 3 — Dashboard
-
-User sees:
-
-* progress,
-* streak,
-* continue practice CTA.
-
----
-
-## Step 4 — Adaptive Practice
-
-User:
-
-* solves questions,
-* receives AI explanations,
-* progresses adaptively.
-
----
-
-## Step 5 — Performance Review
-
-User reviews:
-
-* weak areas,
-* mastery,
-* recommendations.
-
----
-
-## Step 6 — Continuous Adaptive Loop
-
-User repeatedly practices through adaptive sessions.
-
----
-
-# 13. UX Strategy
-
-# UX Goals
-
-The application should feel:
-
-* lightweight,
-* fast,
-* motivating,
-* supportive,
-* distraction-free.
-
----
-
-# UX Principles
-
-## Practice First
-
-Users should begin solving within seconds.
-
----
-
-## Fast Reinforcement
-
-Immediate answer feedback and explanations.
-
----
-
-## Visible Progress
-
-Users should feel measurable improvement.
-
----
-
-## Reduced Cognitive Load
-
-Simplify revision priorities and navigation.
-
----
-
-## Encouraging Emotional Design
-
-The app should feel supportive rather than stressful.
-
----
-
-# 14. Technical Architecture
-
-# Frontend Stack
-
-| Layer            | Technology        |
-| ---------------- | ----------------- |
-| Mobile Framework | Expo React Native |
-| Language         | TypeScript        |
-| Styling          | NativeWind        |
-| Navigation       | Expo Router       |
-| State Management | Zustand           |
-
----
-
-# Backend Stack
-
-| Layer           | Technology       |
-| --------------- | ---------------- |
-| Backend Runtime | Node.js          |
-| Framework       | Express.js       |
-| Hosting         | Render / Railway |
-
----
-
-# Database
-
-| Layer       | Technology         |
-| ----------- | ------------------ |
-| Persistence | Firebase Firestore |
-
----
-
-# AI Layer
-
-| Layer        | Technology              |
-| ------------ | ----------------------- |
-| LLM Provider | Gemini API / OpenAI API |
-
----
-
-# Deployment
-
-| Layer            | Technology      |
-| ---------------- | --------------- |
-| Mobile Build     | Expo EAS Build  |
-| APK Distribution | Expo Build Link |
-
----
-
-# 15. System Design Philosophy
-
-# Lightweight Cloud-Backed Architecture
-
-The MVP intentionally adopts:
-
-* lightweight backend infrastructure,
-* client-side adaptive logic,
-* cloud-backed persistence,
-* AI-enhanced reinforcement.
-
----
-
-# Why Adaptive Logic Remains Client-Side
-
-Reasons:
-
-* lower latency,
-* smoother interactions,
-* faster feedback loops,
-* simpler MVP implementation.
-
----
-
-# Backend Responsibilities
-
-The backend handles:
-
-* AI explanation generation,
-* API security,
-* request orchestration,
-* user persistence integration.
-
----
-
-# 16. High-Level System Architecture
-
-```txt id="p58c5k"
-                ┌──────────────────┐
-                │  Expo React App  │
-                └────────┬─────────┘
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-┌────────────────┐ ┌──────────────┐ ┌─────────────────┐
-│ Adaptive Engine │ │ Firestore DB │ │ Gemini/OpenAI   │
-└────────────────┘ └──────────────┘ └─────────────────┘
+# 10. Information Architecture (IA)
+```
+[App Entry]
+   │
+   ├── [Onboarding / Registration]
+   │
+   ├── [Home Dashboard]
+   │     ├── Continue Practicing Card (Quick Link)
+   │     ├── Practice Categories (Physics, Chemistry, Biology, Mixed)
+   │     ├── Practice Utilities (Custom Practice, Weak Areas, Wrong Questions)
+   │     └── Recent Results List
+   │
+   ├── [Practice Hub / Chapter Selection]
+   │     └── Syllabus Progress and Chapter Progress Lists
+   │
+   ├── [Active Practice Screen]
+   │     ├── Split-Screen Pane (Web) / Stacked Layout (Mobile)
+   │     ├── Question Card & Option Select
+   │     ├── AI Explanation Viewer
+   │     └── Modal Overlay (Custom Configuration, Session Completed Summary)
+   │
+   └── [Analytics Screen]
+         └── Mastery breakdowns, Speed analytics, and Weak-topic insights
 ```
 
 ---
 
-# 17. Project Root Directory
+# 11. User Flows
+1. **Onboarding**: Open App -> Enter Name, Target Score, and Preferred Subject -> Direct landing on Home Dashboard.
+2. **Standard Chapter Practice**: Home -> Choose Physics -> Select "Current Electricity" -> Practice Screen -> Solve Questions (1 to 20) -> Show Session Completed Modal -> Return to Hub.
+3. **Custom Practice**: Home -> Click "Custom Practice" -> Open Modal -> Set Subject (Physics), Question Limit (5), Chapters (Laws of Motion), Difficulty (Medium) -> Solve 5 targeted questions -> View Session Summary -> Return to Hub.
 
-```txt id="ybj68o"
-adaptive-neet/
-│
-├── app/
-│   ├── _layout.tsx
-│   ├── index.tsx
-│   ├── practice.tsx
-│   ├── analytics.tsx
-│   └── settings.tsx
-│
-├── components/
-│   ├── QuestionCard.tsx
-│   ├── FeedbackModal.tsx
-│   ├── AIExplanationCard.tsx
-│   ├── ProgressCard.tsx
-│   ├── WeakTopicCard.tsx
-│   └── StreakWidget.tsx
-│
-├── services/
-│   ├── adaptiveEngine.ts
-│   ├── scoringService.ts
-│   ├── aiService.ts
-│   └── firebaseService.ts
-│
-├── store/
-│   ├── useQuizStore.ts
-│   └── useProgressStore.ts
-│
-├── hooks/
-│   └── useAdaptiveQuestion.ts
-│
-├── data/
-│   └── questions.json
-│
-├── utils/
-│   ├── analyticsUtils.ts
-│   ├── storageUtils.ts
-│   └── difficultyUtils.ts
-│
-├── constants/
-│   ├── colors.ts
-│   └── config.ts
-│
-├── assets/
-│
-├── backend/
-│   ├── routes/
-│   ├── controllers/
-│   ├── services/
-│   ├── prompts/
-│   ├── app.js
-│   └── package.json
-│
-├── package.json
-├── app.json
-├── eas.json
-├── tsconfig.json
-└── README.md
+---
+
+# 12. Core Features
+
+### 12.1 Home
+* **Hero Carousel**: Banners displaying syllabus progress, mock challenges, and a prominent "Continue Practicing" shortcut.
+* **Subject Grid**: High-yield entry points for Physics, Chemistry, and Biology showing overall chapter progress.
+* **Utilities Deck**: Instant configuration buttons for Custom Practice, Weak Areas practice, and revision cards.
+
+### 12.2 Practice Mode
+* **Adaptive Progress Tracking**: Resets active session counts to 0 on launch to ensure numbering sequence starts at 1.
+* **Dual Layout Engine**: Auto-adapts from a single-column layout on mobile to a professional split-pane layout on desktop screens (left for question, right for AI explanation).
+* **Mark for Review**: Quick bookmark toggling that persists locally.
+
+### 12.3 Quiz Mode
+* **Timed Mode**: 45-second timer per question.
+* **Sudden Death / Sprints**: Short-duration question sprints (5 min, 15 min) configured to mimic high-pressure exam environments.
+
+### 12.4 Test Mode
+* **Full Syllabus Simulation**: Simulated 180-question mock tests with detailed post-exam sectional analyses (Physics, Chemistry, Biology).
+
+### 12.5 Question Bank
+* **Physics DB Expansion**: Fully populated database containing 20 mathematically verified, unique questions for each of the 23 core NEET Physics chapters (totaling 460 questions).
+* **Chemistry & Biology DBs**: Curated collections of organic/inorganic pathways and high-yield physiology MCQs.
+
+### 12.6 Progress Tracking
+* **Mastery Metrics**: Dynamically calculated accuracy rates per topic.
+* **Weak-Topic Logging**: Automatic classification of a topic as "Weak" if consecutive correctness falls below 50%.
+
+---
+
+# 13. Adaptive Learning System
+The platform utilizes a local, performance-driven algorithm implemented in [adaptiveEngine.ts](file:///d:/nomad%20archives/vedantu_task/services/adaptiveEngine.ts):
+* **Initial State**: Fetches baseline questions from the user's preferred subject or custom configured chapters.
+* **Progression Rules**:
+  * Answering a question correctly advances the difficulty (Easy -> Medium -> Hard).
+  * Answering incorrectly pulls a similar question from the same topic at a lower difficulty (Hard -> Medium -> Easy) to rebuild confidence.
+  * Weak topics are automatically queued into the practice stream with higher priority.
+* **Custom Overrides**: Honors selected chapter pools (`allowedTopics`) and difficulty lockers (`customDifficulty`).
+
+---
+
+# 14. AI Explanation Engine
+Rather than hosting heavy client-side AI modules, requests are routed to a secure Express.js gateway. The API:
+* Intercepts payload: Question text, correct option, option selected by user, subject, topic, and difficulty.
+* Submits structured system prompts to the Google Gemini API.
+* Generates clear, structured Markdown explanations containing a solution walkthrough, formula callouts, and NEET mnemonics.
+* Automatically falls back to local offline explanation templates if network latency is detected or the API is rate-limited.
+
+---
+
+# 15. Progress & Motivation System
+* **Streak Tracking**: Continuous activity tracker using local storage. Shows flame emojis and alerts if a user hasn't completed their daily target.
+* **Score-to-Points Calibration**: Users earn +10 points per correct answer, instantly updated in the Zustand store and rendered on the HUD.
+* **Trophy Modal**: Success overlay displaying completed question details, accuracy ratios, and earned points.
+
+---
+
+# 16. UX Philosophy & Design Decisions
+* **Harmony of Colors**: Custom HSL-based palettes representing subjects (Physics = Indigo, Chemistry = Emerald, Biology = Orange).
+* **Clear Hierarchy**: High-contrast, large text sizes for formula variables, code snippets, and question headers.
+* **Glassmorphism & Blurs**: Sleek card layouts with subtle border translucency for a premium, modern aesthetic.
+* **Typography**: Outfit font family for headers and clean sans-serif interfaces.
+
+---
+
+# 17. Gamification & Retention Strategy
+* **Streak Flame Widget**: Visual feedback of daily preparation consistency.
+* **Dynamic Points HUD**: Gamified rewards system updating instantly.
+* **Interactive Chapter Checklists**: Highlighting progress percentages to induce a completionist motivation loop.
+
+---
+
+# 18. Technical Architecture
+```
+┌────────────────────────────────────────────────────────┐
+│                     Frontend (Client)                  │
+│  - React Native / Expo Bare Workflow                   │
+│  - Zustand State Management (useQuizStore, Progress)   │
+│  - TypeScript & NativeWind                             │
+└──────────────────────────┬─────────────────────────────┘
+                           │ HTTPS (Fetch)
+                           ▼
+┌────────────────────────────────────────────────────────┐
+│                     Backend Gateway                    │
+│  - Node.js & Express API                               │
+│  - Render / Railway Server Deployment                  │
+└──────────────────────────┬─────────────────────────────┘
+                           │ Google Generative AI SDK
+                           ▼
+┌────────────────────────────────────────────────────────┐
+│                     AI Provider                        │
+│  - Google Gemini API (gemini-1.5-flash / pro models)   │
+└────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 18. KPIs & Success Metrics
-
-# Learning Metrics
-
-* Accuracy improvement
-* Weak-topic reduction
-* Difficulty progression
-
----
-
-# Engagement Metrics
-
-* Questions solved/session
-* Daily streak continuation
-* Session completion rate
-
----
-
-# Product Metrics
-
-* Time-to-practice
-* Adaptive session completion
-* Explanation engagement rate
+# 19. Database Schema Overview
+The questions are managed locally via a structured JSON schema in [questions.json](file:///d:/nomad%20archives/vedantu_task/data/questions.json):
+```json
+{
+  "id": "phy_es_001",
+  "subject": "Physics",
+  "topic": "Electrostatics",
+  "difficulty": "medium",
+  "questionText": "Two point charges Q1 and Q2 are placed...",
+  "options": [
+    "Increases by 4 times",
+    "Decreases by 2 times",
+    "Remains constant",
+    "Increases by 2 times"
+  ],
+  "correctOptionIndex": 0,
+  "conceptualTags": ["Coulomb's Law", "Permittivity"]
+}
+```
 
 ---
 
-# 19. Risks & Mitigations
-
-| Risk            | Mitigation                |
-| --------------- | ------------------------- |
-| Over-scoping    | Strict MVP prioritization |
-| AI latency      | Lightweight prompts       |
-| APK instability | Expo-managed workflow     |
-| Poor adaptivity | Simple explainable rules  |
-| Weak UX clarity | Minimal navigation        |
+# 20. API & Backend Overview
+The gateway exposes two core endpoints in Express:
+* **`GET /health`**: Health monitor checking API connectivity and SDK availability.
+* **`POST /api/explain`**: Explanation generation. Accepts the question payload and user choice, returns a structured Markdown explanation.
 
 ---
 
-# 20. Future Scope
-
-# Phase 2
-
-* spaced repetition,
-* daily challenge,
-* timed mock mode.
+# 21. State Management Approach
+Handled via two dedicated Zustand stores:
+1. **`useQuizStore`**: Session-specific variables (current question, selected option, session question counter, evaluation state, AI explanation strings, and custom configs).
+2. **`useProgressStore`**: Persistent student statistics (total solved questions, topic mastery history, weak topics lists, daily streaks, preferred subjects, and target scores).
 
 ---
 
-# Phase 3
-
-* AI tutor mode,
-* advanced analytics,
-* revision planner,
-* cloud sync,
-* collaborative learning.
+# 22. Analytics & Tracking
+* **Active Topic Diagnosis**: Tracks consecutive correct/incorrect answers per topic to calculate dynamic mastery levels.
+* **Speed Analytics**: Logs the seconds spent per question to construct an average answering speed report on the analytics dashboard.
 
 ---
 
-# 21. Final Product Insight
+# 23. MVP Scope
+* **Core MCQ Adaptive Practice** with immediate evaluation.
+* **Gemini-powered AI explanation** on Render backend.
+* **Physics questions database** (23 chapters with 20 questions each).
+* **Zustand local persistence** for streaks and topic history.
+* **Custom practice modal** with chapter checklists and difficulty selectors.
+* **EAS compilation** outputting a preview APK.
 
-AdaptiveNEET does not aim to replace coaching or teaching platforms.
+---
 
-It aims to:
+# 24. Stretch Features
+* **Daily Spaced Repetition**: Re-queueing bookmarked or failed questions at 1, 3, and 7-day intervals.
+* **AI Chat Sandbox**: An interactive workspace where students can ask follow-up questions to the Gemini tutor about a solved MCQ.
+* **Real-time Peer Battles**: Instant MCQ speed matches between users on common topics.
 
-* optimize revision efficiency,
-* personalize practice,
-* reinforce concepts adaptively,
-* and reduce cognitive overload during high-pressure preparation.
+---
 
-The product succeeds when students feel:
+# 25. Assumptions & Constraints
+* **Assumption**: Users have periodic internet access (to call Render gateway for AI explanations).
+* **Constraint**: Gemini API key is bound by rate limits; local offline templates must serve as a functional fallback.
 
-“I know exactly what I should practice next — and why.”
+---
+
+# 26. Risks & Tradeoffs
+* **Risk**: High latency from Render's free-tier servers.
+* **Tradeoff**: Serve offline explanations immediately to maintain practice flow speed, rendering the AI explanation asynchronously when the API response finishes.
+
+---
+
+# 27. Future Roadmap
+* **Phase 1 (Current)**: Local database practice, custom configurations, and AI explanation gateway.
+* **Phase 2**: Spaced-repetition revision schedule, timed sectional mocks, and dashboard enhancements.
+* **Phase 3**: Complete cloud database syncing (Firebase integration) and cross-platform web app release.
+
+---
+
+# 28. Why AdaptiveNEET Matters
+By adopting an active test-first model, AdaptiveNEET optimizes student revision. It provides an personalized practice experience that ensures every minutes spent on the platform targets the student's highest-yield improvement areas, drastically boosting final NEET scores.
+
+---
+
+# 29. Appendix
+### Gemini System Prompt Template
+```text
+You are an expert NEET Physics, Chemistry, and Biology tutor.
+Analyze the following question from Subject: {subject}, Topic: {topic}, Difficulty: {difficulty}.
+The correct option index is {correctOptionIndex} (options: {options}).
+The user selected index {userAnswerIndex}.
+
+Provide a clear conceptual explanation using Markdown format. 
+Focus on:
+1. Correct conceptual model.
+2. Direct step-by-step mathematical or reasoning walkthrough.
+3. Where the student's selected wrong answer likely derived from.
+Keep the language extremely encouraging, concise, and professional.
+```
