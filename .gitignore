@@ -1,22 +1,32 @@
 # Dependencies
 node_modules/
 
-# Expo cache and build directories
+# Expo
 .expo/
 .expo-shared/
 web-build/
 
-# Android build outputs and artifacts
-android/
+# Build outputs
+dist/
+build/
+
+# Android build artifacts only
+android/app/build/
 *.apk
 *.aab
 *.aar
 *.ap_
 
-# Local config and logs
+# iOS build artifacts
+ios/build/
+
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.log
+
+# Environment files
 .env
 .env.local
 .env.*.local
@@ -24,7 +34,12 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-# System/IDE files
+# Prisma
+prisma/generated/
+
+# System files
 .DS_Store
 Thumbs.db
-%ProgramData%/
+
+# Large Video files
+*.mp4
