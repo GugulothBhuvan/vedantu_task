@@ -4,22 +4,7 @@ import { Question } from '../store/useQuizStore';
 
 // Dynamically resolve the backend URL so it works on Web, Android Emulator, and Physical Devices running Expo Go
 const getBackendUrl = (): string => {
-  if (Platform.OS === 'web') {
-    return 'http://localhost:5000';
-  }
-
-  // Constants.expoConfig?.hostUri typically looks like "192.168.1.100:8081" (the IP of your PC)
-  const hostUri = Constants.expoConfig?.hostUri;
-  if (hostUri) {
-    const ip = hostUri.split(':')[0];
-    return `http://${ip}:5000`;
-  }
-
-  // Fallback for local emulator loopback if hostUri is unavailable
-  return Platform.select({
-    android: 'http://10.0.2.2:5000',
-    default: 'http://localhost:5000',
-  });
+  return 'https://vedantu-task.onrender.com';
 };
 
 const BACKEND_URL = getBackendUrl();
